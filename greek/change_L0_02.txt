@@ -1,0 +1,21 @@
+25582 old <div n="lb">(1058); {@40,@} (1084); {@41,@} (1097); {@42,@} (1102), 13<sup>1133</sup> {@43,@}
+25582 new <div n="lb">(1058); {@40,@} (1084); {@41,@} (1097); {@42,@} (1102), <sup>13</sup>1133 {@43,@}
+;-----------------
+31096 old <div n="lb">Yudhiṣṭhira)]; {@47<lang n="greek"></lang><sup>25</sup>,@} 1809, 26<sup>1817</sup>, 1826, 28<sup>1843</sup> (battles
+31096 new <div n="lb">Yudhiṣṭhira)]; {@47<lang n="greek"></lang><sup>25</sup>,@} 1809, <sup>26</sup>1817, 1826, <sup>28</sup>1843 (battles
+;-----------------
+31097 old <div n="lb">with Uttara), 30<sup>1862</sup>, 1863; {@48,@} 1868, (<lang n="greek"></lang>), 34<sup>1925</sup>, (<lang n="greek"></lang>),
+31097 new <div n="lb">with Uttara), <sup>30</sup>1862, 1863; {@48,@} 1868, (<lang n="greek"></lang>), <sup>34</sup>1925, (<lang n="greek"></lang>),
+;-----------------
+31098 old <div n="lb">35<sup>1957</sup>, (<lang n="greek"></lang>), 36<sup>1963</sup>; {@49,@} 37<sup>2010</sup>, 2013 (attacked by Śaṅkha),
+31098 new <div n="lb"><sup>35</sup>1957, (<lang n="greek"></lang>), <sup>36</sup>1963; {@49,@} <sup>37</sup>2010, 2013 (attacked by Śaṅkha),
+;-----------------
+31099 old <div n="lb">40<sup>2019</sup>; {@50<lang n="greek"></lang>,@} 2070; {@51<lang n="greek"></lang>,@} 2092, (<lang n="greek"></lang>), 2107.—§ 579 (do.):
+31099 new <div n="lb"><sup>40</sup>2019; {@50<lang n="greek"></lang>,@} 2070; {@51<lang n="greek"></lang>,@} 2092, (<lang n="greek"></lang>), 2107.—§ 579 (do.):
+;-----------------
+31103 old <div n="lb">2690, (<lang n="greek"></lang>), 4<sup>2715</sup>; {@62<sup>4</sup>,@} 2723, 2724, 2726, 2745 ({%svasrīyau%}—
+31103 new <div n="lb">2690, (<lang n="greek"></lang>), <sup>4</sup>2715; {@62<sup>4</sup>,@} 2723, 2724, 2726, 2745 ({%svasrīyau%}—
+;-----------------
+31104 old <div n="lb">i.e. Nakula and Sahadeva—…{%ānarcchat%}); {@64,@} 13<sup>2836</sup>
+31104 new <div n="lb">i.e. Nakula and Sahadeva—…{%ānarcchat%}); {@64,@} <sup>13</sup>2836
+;-----------------

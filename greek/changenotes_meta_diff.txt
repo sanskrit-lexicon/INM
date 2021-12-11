@@ -1,0 +1,512 @@
+First is temp_inm_03.txt
+Second is inm_slp1_L2_01.txt
+Changes made to each are:
+27c27
+< <L>27<pc>003-2<k1>ABizecanika<k2>ABizecanika
+---
+> <L>27<pc>003-2<k1>ABizecanikaparva<k2>ABizecanika parva  CHANGE
+
+40c40
+< <L>40<pc>004-1<k1>acAryamuKya<k2>acAryamuKya  CHANGE (print change)
+---
+> <L>40<pc>004-1<k1>AcAryamuKya<k2>AcAryamuKya
+
+72c72
+< <L>72<pc>005-1<k1>aSrama<k2>aSrama  CHANGE (print change)
+---
+> <L>72<pc>005-1<k1>ASrama<k2>ASrama
+
+78c78
+< <L>78<pc>005-2<k1>aSramavAsa<k2>aSramavAsa<h>2  CHANGE (print change)
+---
+> <L>78<pc>005-2<k1>ASramavAsa<k2>ASramavAsa<h>2
+
+122c122
+< <L>122<pc>011-1<k1>aSvayuja<k2>aSvayuja   CHANGE (print change)
+---   NOT SURE: both words exist in mw.
+> <L>122<pc>011-1<k1>ASvayuja<k2>ASvayuja
+
+148c148
+< <L>148<pc>012-2<k1>aDiraTi<k2>aDiraTi  PRINT CHANGE not sure
+---
+> <L>148<pc>012-2<k1>ADiraTi<k2>ADiraTi
+164c164
+
+< <L>164<pc>013-1<k1>Adideva<k2>Adideva<h>2  CHANGE
+---
+> <L>164<pc>013-1<k1>Adideva<k2>Adideva<h>3
+
+189c189
+< <L>189<pc>015-2<k1>adityaparvata<k2>adityaparvata  PRINT CHANGE
+---
+> <L>189<pc>015-2<k1>Adityaparvata<k2>Adityaparvata
+
+190c190
+< <L>190<pc>015-2<k1>adityapaTa<k2>adityapaTa  PRINT CHANGE
+---
+> <L>190<pc>015-2<k1>AdityapaTa<k2>AdityapaTa
+
+192c192
+< <L>192<pc>015-2<k1>adityapratima<k2>adityapratima PRINT CHANGE
+---
+> <L>192<pc>015-2<k1>Adityapratima<k2>Adityapratima
+
+210d209
+< <L>210<pc>016-2<k1>Adya<k2>Adya<h>3  L2 in addendum deletes. Still in 03
+
+228c227
+< <L>228<pc>018-2<k1>aGaRwin<k2>aGaRwin  PRINT CHANGE addendum
+---
+> <L>228<pc>018-2<k1>aGaRwaGaRwin<k2>aGaRwaGaRwin
+
+253c252
+< <L>253<pc>024-1<k1>agniveSa<k2>agniveSa
+---
+> <L>253<pc>024-1<k1>agniveSa<k2>agniveSa<h>1  L2 addendum
+
+
+260c259
+< <L>260<pc>024-2<k1>agraRI<k2>agraRI
+---
+> <L>260<pc>024-2<k1>agraRI<k2>agraRI<h>1  L2 addendum
+
+
+< <L>269<pc>024-2<k1>ahar<k2>ahar
+---
+> <L>269<pc>024-2<k1>ahar<k2>ahar<h>1   L2 addendum
+
+
+< <L>270<pc>024-2<k1>ahas<k2>ahas<h>1  PRINT CHANGE (addendum)
+---
+> <L>270<pc>024-2<k1>ahar<k2>ahar<h>3   
+
+< <L>271<pc>024-2<k1>ahas<k2>ahas<h>2  PRINT CHANGE (addendum)
+---
+> <L>271<pc>024-2<k1>ahar<k2>ahar<h>4
+
+< <L>272<pc>024-2<k1>ahibraDna<k2>ahibraDna  CHANGE
+---
+> <L>272<pc>024-2<k1>ahibraDna<k2>ahi braDna
+328c327
+< <L>328<pc>027-1<k1>ajagaraparvan<k2>ajagaraparvan  PRINT CHANGE
+---
+> <L>328<pc>027-1<k1>Ajagaraparvan<k2>Ajagaraparvan
+
+369c368
+< <L>369<pc>028-2<k1>akfti<k2>akfti   PRINT CHANGE
+---
+> <L>369<pc>028-2<k1>Akfti<k2>Akfti
+
+405d403
+< <L>405<pc>030-1<k1>amaraRa<k2>amaraRa  L2 delete addendum
+
+464c462
+< <L>464<pc>034-2<k1>amoGA<k2>amoGA
+---
+> <L>464<pc>034-2<k1>amoGA<k2>amoGA<h>1  L2 addendum
+
+484
+< <L>484<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa  PRINT CHANGE (homonym)
+---
+> <L>484<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa<h>1
+
+< <L>485<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa PRINT CHANGE (addendum)
+---
+> <L>485<pc>035-1<k1>AmUrtarayasa<k2>AmUrtarayasa<h>2
+
+541c539
+< <L>541<pc>036-1<k1>aRqa<k2>aRqa
+---
+> <L>541<pc>036-1<k1>aRqa<k2>aRqa<h>1  L2 addendum
+
+546c544
+< <L>546<pc>036-1<k1>anDa<k2>anDa
+---
+> <L>546<pc>036-1<k1>anDa<k2>anDa<h>1  L2 addendum
+
+556c554
+< <L>556<pc>037-1<k1>anenas<k2>anenas
+---
+> <L>556<pc>037-1<k1>anenas<k2>anenas<h>1  L2 addendum
+
+572c570
+< <L>572<pc>038-1<k1>aNgAra<k2>aNgAra
+---
+> <L>572<pc>038-1<k1>aNgAra<k2>aNgAra<h>1   L2 addendum
+
+602c600
+< <L>602<pc>039-2<k1>aNgirasa<k2>aNgirasa  PRINT CHANGE (?)
+---
+> <L>602<pc>039-2<k1>ANgirasa<k2>ANgirasa
+
+648c646
+< <L>648<pc>042-1<k1>annapati<k2>annapati
+---
+> <L>648<pc>042-1<k1>annapati<k2>annapati<h>1   L2 addendum
+
+
+< <L>711<pc>063-1<k1>apagA<k2>apagA<h>1  PRINT CHANGE (?)
+---
+> <L>711<pc>063-1<k1>ApagA<k2>ApagA<h>1
+
+< <L>712<pc>063-1<k1>apagA<k2>apagA<h>2  PRINT CHANGE (?)
+---
+> <L>712<pc>063-1<k1>ApagA<k2>ApagA<h>2
+
+< <L>713<pc>063-1<k1>apagAsuta<k2>apagAsuta  PRINT CHANGE (?)
+---
+> <L>713<pc>063-1<k1>ApagAsuta<k2>ApagAsuta
+
+< <L>714<pc>063-1<k1>apageya<k2>apageya  PRINT CHANGE (?)
+---
+> <L>714<pc>063-1<k1>Apageya<k2>Apageya
+
+720c718
+< <L>720<pc>063-1<k1>apAMpati<k2>apAMpati
+---
+> <L>720<pc>063-1<k1>apAMpati<k2>apAMpati<h>1  L2 addendum
+
+736c734
+< <L>736<pc>063-2<k1>apava<k2>apava  PRINT CHANGE 
+---
+> <L>736<pc>063-2<k1>Apava<k2>Apava
+
+753c751
+< <L>753<pc>065-2<k1>apta<k2>apta  PRINT CHANGE 
+---
+> <L>753<pc>065-2<k1>Apta<k2>Apta
+
+763,765c761,763
+< <L>763<pc>065-2<k1>araRyaka<k2>araRyaka<h>1  PRINT CHANGE 
+---
+> <L>763<pc>065-2<k1>AraRyaka<k2>AraRyaka<h>1
+
+< <L>764<pc>066-1<k1>araRyaka<k2>araRyaka<h>2  PRINT CHANGE 
+---
+> <L>764<pc>066-1<k1>AraRyaka<k2>AraRyaka<h>2
+
+< <L>765<pc>066-1<k1>araRyakaparvan<k2>araRyakaparvan  PRINT CHANGE 
+---
+> <L>765<pc>066-1<k1>AraRyakaparvan<k2>AraRyakaparvan
+
+784c782
+< <L>784<pc>067-1<k1>Ardracarman<k2>Ardracarman  PRINT CHANGE (addendum)
+---
+> <L>784<pc>067-1<k1>ArdracarmAbaravfta<k2>ArdracarmAbaravfta
+
+831c829
+< <L>831<pc>090-2<k1>arzwizeRa<k2>arzwizeRa<h>1   PRINT CHANGE
+---
+> <L>831<pc>090-2<k1>ArzwizeRa<k2>ArzwizeRa<h>1
+
+840c838
+< <L>840<pc>091-1<k1>aruja<k2>aruja  PRINT CHANGE
+---
+> <L>840<pc>091-1<k1>Aruja<k2>Aruja
+
+853c851
+< <L>853<pc>091-2<k1>aruRi<k2>aruRi<h>2  PRINT CHANGE
+---
+> <L>853<pc>091-2<k1>AruRi<k2>AruRi<h>2
+
+917c915
+< <L>917<pc>099-1<k1>asurAyaRi<k2>asurAyaRi  PRINT CHANGE (addendum)
+---
+> <L>917<pc>099-1<k1>AsurAyaRi<k2>AsurAyaRi
+nErfta 
+925c923
+< <L>925<pc>099-1<k1>atapana<k2>atapana  PRINT CHANGE (addendum)
+---
+> <L>925<pc>099-1<k1>Atapana<k2>Atapana
+
+942c940
+< <L>942<pc>099-1<k1>aTida<k2>aTida  PRINT CHANGE (addendum)
+---
+> <L>942<pc>099-1<k1>aWida<k2>aWida
+
+958c956
+< <L>958<pc>099-2<k1>AtiTi<k2>AtiTi  PRINT CHANGE (addendum)
+---
+> <L>958<pc>099-2<k1>atiTi<k2>atiTi
+
+996c994
+< <L>996<pc>100-2<k1>Orva<k2>Orva
+---
+> <L>996<pc>100-2<k1>Orva<k2>Orva<h>1 L2 addendum (for <h>)
+
+1027c1025
+< <L>1027<pc>102-1<k1>avikzita<k2>avikzita  PRINT CHANGE (addendum)
+---
+> <L>1027<pc>102-1<k1>Avikzita<k2>Avikzita<h>1 L2 addendum (for <h>)
+
+
+< <L>1111<pc>104-2<k1>bahurUpa<k2>bahurUpa
+---
+> <L>1111<pc>104-2<k1>bahurUpa<k2>bahurUpa<h>1  L2 addendum 
+
+< <L>1112<pc>104-2<k1>bahuvadyAH<k2>bahuvadyAH  PRINT CHANGE (addendum) Also another change
+---
+> <L>1112<pc>104-2<k1>bahuvAdyAH<k2>bahuvAdyAH
+
+< <L>1113<pc>104-2<k1>bahuvedya<k2>bahuvedya  PRINT CHANGE (addendum)
+---
+> <L>1113<pc>104-2<k1>bahuvidya<k2>bahuvidya
+
+1130c1128
+< <L>1130<pc>105-2<k1>bala<k2>bala<h>4  CHANGE (4 typo)
+---
+> <L>1130<pc>105-2<k1>bala<k2>bala<h>1
+
+1584c1582
+< <L>1584<pc>150-2<k1>Bfgusuta<k2>Bfgusuta
+---
+> <L>1584<pc>150-2<k1>Bfgusuta<k2>Bfgusuta<h>1 L2 addendum 
+
+1651c1649
+< <L>1651<pc>152-2<k1>BUtamaheSvara<k2>BUtamaheSvara
+---
+> <L>1651<pc>152-2<k1>BUtamaheSvara<k2>BUtamaheSvara<h>1  L2 addendum 
+
+1668c1666
+< <L>1668<pc>153-1<k1>BUti<k2>BUti
+---
+> <L>1668<pc>153-1<k1>BUti<k2>BUti<h>1 L2 addendum 
+
+
+< <L>1672<pc>153-1<k1>BuvaH<k2>BuvaH<h>1    PRINT CHANGE (addendum)
+---
+> <L>1672<pc>153-1<k1>Buvas<k2>Buvas<h>1
+
+< <L>1673<pc>153-1<k1>BuvaH<k2>BuvaH<h>2    PRINT CHANGE (addendum)
+---
+> <L>1673<pc>153-1<k1>Buvas<k2>Buvas<h>2
+
+1744a1743
+> <L>17441<pc>162-2<k1>brAhman<k2>brAhman<h>  typo: -> 1744.1
+
+1905c1904
+< <L>1905<pc>171-1<k1>cakraDara<k2>cakraDara
+---
+> <L>1905<pc>171-1<k1>cakraDara<k2>cakraDara<h>1 L2 addendum
+
+2023c2022
+< <L>2023<pc>174-1<k1>caturbAhu<k2>caturbAhu
+---
+> <L>2023<pc>174-1<k1>caturbAhu<k2>caturbAhu<h>1  L2 addendum
+
+2094c2093
+< <L>2094<pc>176-1<k1>citrA<k2>citrA
+---
+> <L>2094<pc>176-1<k1>citrA<k2>citrA<h>1 L2 addendum
+
+2492,2493d2490
+< <L>2492<pc>196-2<k1>SArNgacakragadApAni<k2>SArNgacakragadApAni  addendum del
+< <L>2493<pc>196-2<k1>SArNgacakrAsipARi<k2>SArNgacakrAsipARi   addendum change?
+
+
+2529c2526
+< <L>2529<pc>197-2<k1>Satalocana<k2>Satalocana
+---
+> <L>2529<pc>197-2<k1>Satalocana<k2>Satalocana<h>1 L2 addendum
+
+2866c2863
+< <L>2866<pc>222-2<k1>Svasana<k2>Svasana
+---
+> <L>2866<pc>222-2<k1>Svasana<k2>Svasana<h>1 L2 addendum
+
+
+< <L>3266<pc>237-1<k1>devarAja<k2>devarAja<h>3  L2 deletion and change
+
+< <L>3267<pc>237-2<k1>devarAja<k2>devarAja<h>4
+---
+> <L>3267<pc>237-2<k1>devarAja<k2>devarAja<h>3 L2 addendum ?
+
+
+3277-3282
+These wrongly rendered as headwods - merged into 3276.
+< <L>3277<pc>238-1<k1>asita<k2>asita
+< <L>3278<pc>238-1<k1>BUrBuva<k2>BUrBuva
+< <L>3279<pc>238-2<k1>bfhaspati<k2>bfhaspati
+< <L>3280<pc>238-2<k1>kaSyapa<k2>kaSyapa
+< <L>3281<pc>238-2<k1>lomaSa<k2>lomaSa
+< <L>3282<pc>238-2<k1>nArada<k2>nArada
+
+
+
+< <L>3397<pc>241-2<k1>Dara<k2>Dara<h>4  L2 addendum delete
+
+< <L>3398<pc>241-2<k1>Dara<k2>Dara<h>5  L2 addendum
+---
+> <L>3398<pc>241-2<k1>Dara<k2>Dara<h>4
+
+3422c3411
+< <L>3422<pc>242-2<k1>Darmagupta<k2>Darmagupta PRINT CHANGE (addendum)
+---
+> <L>3422<pc>242-2<k1>Darmagup<k2>Darmagup
+
+3441c3430
+< <L>3441<pc>243-2<k1>DarmAranya<k2>DarmAranya PRINT CHANGE 
+---
+> <L>3441<pc>243-2<k1>DarmAraRya<k2>DarmAraRya
+
+3448c3437
+< <L>3448<pc>243-2<k1>Darmavid<k2>Darmavid PRINT CHANGE (addendum)
+---
+> <L>3448<pc>243-2<k1>Darmaviduttama<k2>Darmaviduttama
+
+3466c3455
+< <L>3466<pc>246-1<k1>DAtu<k2>DAtu  PRINT CHANGE (addendum) ?
+---  SHOULD IT BE Daturuttama ?
+> <L>3466<pc>246-1<k1>DAtuuttama<k2>DAtu uttama
+
+3591c3580
+< <L>3591<pc>254-2<k1>dInakft<k2>dInakft PRINT CHANGE (addendum) 
+---
+> <L>3591<pc>254-2<k1>dinakft<k2>dinakft
+
+4059c4048
+< <L>4059<pc>300-1<k1>garuqa<k2>garuqa
+---
+> <L>4059<pc>300-1<k1>garuqa<k2>garuqa<h>1 L2 addendum ?? (multiple garuqa)
+
+4367c4356
+< <L>4367<pc>317-2<k1>hanUmadBImasamvAda<k2>hanUmadBImasamvAda PRINT CHANGE
+---
+> <L>4367<pc>317-2<k1>hanUmadBImasaMvAda<k2>hanUmadBImasaMvAda
+
+4612c4601
+< <L>4612<pc>327-2<k1>ilA<k2>ilA
+---
+> <L>4612<pc>327-2<k1>ilA<k2>ilA<h>1  L2 addendum
+
+4648d4636
+< <L>4648<pc>343-2<k1>SakraprasTa<k2>SakraprasTa  Deleted: moved into 4647
+
+4651c4639
+< <L>4651<pc>343-2<k1>indrasena<k2>indrasena<h>2  CHANGED (typo)
+---
+> <L>4651<pc>343-2<k1>indrasena<k2>indrasena<h>3
+
+5008c4996
+< <L>5008<pc>366-2<k1>kASisuta<k2>kASisuta PRINT CHANGE (addendum) ?
+---  the addendum correction is wrong!
+> <L>5008<pc>366-2<k1>kASisutA<k2>kASisutA
+
+5102c5090
+< <L>5102<pc>373-1<k1>kAkudika<k2>kAkudika   PRINT CHANGE (addendum) 
+---
+> <L>5102<pc>373-1<k1>kAkudIka<k2>kAkudIka
+
+5712c5700
+< <L>5712<pc>404-2<k1>KaSira<k2>KaSira  PRINT CHANGE (addendum) 
+---
+> <L>5712<pc>404-2<k1>KaSIra<k2>KaSIra
+
+5808c5796
+< <L>5808<pc>410-1<k1>koRvaSira<k2>koRvaSira   PRINT CHANGE (addendum) 
+---
+> <L>5808<pc>410-1<k1>konvaSira<k2>konvaSira
+
+6209,6210c6197,6198
+< <L>6209<pc>437-2<k1>kuntInandana<k2>kuntInandana<h>1   PRINT CHANGE (addendum) 
+---
+> <L>6209<pc>437-2<k1>kuntinandana<k2>kunti-nandana<h>1
+
+< <L>6210<pc>437-2<k1>kuntInandana<k2>kuntInandana<h>2  PRINT CHANGE (addendum)
+---
+> <L>6210<pc>437-2<k1>kuntinandana<k2>kunti-nandana<h>2
+
+6838c6826
+< <L>6838<pc>456-2<k1>mahApuruza<k2>mahApuruza
+---
+> <L>6838<pc>456-2<k1>mahApuruza<k2>mahApuruza<h>1 L2 addendum
+
+6894,6895c6882,6883
+< <L>6894<pc>457-2<k1>maheSvarapada<k2>maheSvarapada  PRINT CHANGE (addendum) 
+---
+> <L>6894<pc>457-2<k1>mAheSvarapada<k2>mAheSvarapada
+
+< <L>6895<pc>457-2<k1>maheSvarapura<k2>maheSvarapura  PRINT CHANGE (addendum) 
+---
+> <L>6895<pc>457-2<k1>mAheSvarapura<k2>mAheSvarapura
+
+7322c7310
+< <L>7322<pc>480-1<k1>mitra<k2>mitra
+---
+> <L>7322<pc>480-1<k1>mitra<k2>mitra<h>1  L2 addendum
+
+7378c7366
+< <L>7378<pc>490-1<k1>mftyuprajApatisamvAda<k2>mftyuprajApatisamvAda PRINT CHANGE
+---
+> <L>7378<pc>490-1<k1>mftyuprajApatisaMvAda<k2>mftyuprajApatisaMvAda
+
+7713,7714c7701,7702
+< <L>7713<pc>519-1<k1>nirfti<k2>nirfti<h>1
+---
+> <L>7713<pc>519-1<k1>>nirfti<k2>>nirfti<h>1  L2 typo changed (>>)
+
+< <L>7714<pc>519-1<k1>nirfti<k2>nirfti<h>2
+---
+> <L>7714<pc>519-1<k1>>nirfti<k2>>nirfti<h>2  L2 typo changed (>>)
+
+
+8234c8222
+< <L>8234<pc>545-1<k1>patitri<k2>patitri  PRINT CHANGE (addendum)
+---
+> <L>8234<pc>545-1<k1>patatri<k2>patatri
+
+8312c8300
+< <L>8312<pc>549-1<k1>pavitra<k2>pavitra
+---
+> <L>8312<pc>549-1<k1>pavitra<k2>pavitra<h>1  L2 addendum
+
+8426c8414
+< <L>8426<pc>553-2<k1>praBavaHsarvaBUtAnAM<k2>praBavaHsarvaBUtAnAM
+---
+> <L>8426<pc>553-2<k1>praBavaHsarvaBUtAnAM<k2>praBavaHsarvaBUtAnAM<h>1  L2 addendum
+
+8656c8644
+< <L>8656<pc>563-1<k1>pravIra<k2>pravIra
+---
+> <L>8656<pc>563-1<k1>pravIra<k2>pravIra<h>1 L2 addendum
+
+9224,9227c9212,9215
+< <L>9224<pc>603-2<k1>sagara<k2>sagara<h>1
+---
+> <L>9224<pc>603-2<k1>sagara<k2>sagara  L2 addendum (not sure about <h>1) ?
+
+< <L>9225<pc>604-2<k1>sAgara<k2>sAgara<h>2 
+---
+> <L>9225<pc>604-2<k1>sAgara<k2>sAgara<h>1  L2 addendum (not sure about <h>) ?
+
+< <L>9226<pc>604-2<k1>sAgara<k2>sAgara<h>3
+---
+> <L>9226<pc>604-2<k1>sAgara<k2>sAgara<h>2   L2 addendum (not sure about <h>) ?
+
+< <L>9227<pc>604-2<k1>sAgara<k2>sAgara<h>4
+---
+> <L>9227<pc>604-2<k1>sAgara<k2>sAgara<h>3   L2 addendum (not sure about <h>1) 
+
+9542c9530
+< <L>9542<pc>623-1<k1>sarasvatItArkzyasamvAda<k2>sarasvatItArkzyasamvAda PRINT CHANGE
+---
+> <L>9542<pc>623-1<k1>sarasvatItArkzyasaMvAda<k2>sarasvatItArkzyasaMvAda
+
+9733d9720
+< <L>9733<pc>629-2<k1>SEneyanandana<k2>SEneyanandana merged into 9732
+
+9915c9902
+< <L>9915<pc>638-1<k1>simhaketu<k2>simhaketu<h>2  PRINT CHANGE
+---
+> <L>9915<pc>638-1<k1>siMhaketu<k2>siMhaketu<h>2
+
+10692c10679
+< <L>10692<pc>671-2<k1>svayamBuvovana<k2>svayamBuvovana  CHANGE k2
+---
+> <L>10692<pc>671-2<k1>svayamBuvovana<k2>svayamBuvo vana
+
+12371c12358
+< <L>12371<pc>755-2<k1>vfzRisiMha<k2>vfzRisiMha
+---
+> <L>12371<pc>755-2<k1>vfzRisiMha<k2>vfzRisiMha<h>1  L2 extra
+

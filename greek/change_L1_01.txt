@@ -1,0 +1,15 @@
+18835 old <L>1291<pc>119-1<k1>Baktavatsala<k2>Baktavatsala<h>2
+18835 new <L>1291.1<pc>119-1<k1>Baktavatsala<k2>Baktavatsala<h>2
+;-----------------
+25696 old <L>17441<pc>162-2<k1>brAhman<k2>brAhman<h>3
+25696 new <L>1744.1<pc>162-2<k1>brAhman<k2>brAhman<h>3
+;-----------------
+62356 old <L>5112<pc>374-1<k1>kalA<k2>kalA<h>2
+62356 new <L>5112.1<pc>374-1<k1>kalA<k2>kalA<h>2
+;-----------------
+64443 old <L>5403<pc>383-2<k1>karaRa<k2>karaRa<h>2
+64443 new <L>5403.1<pc>383-2<k1>karaRa<k2>karaRa<h>2
+;-----------------
+64451 old <L>5404<pc>383-2<k1>kAraRa<k2>kAraRa<h>2
+64451 new <L>5404.1<pc>383-2<k1>kAraRa<k2>kAraRa<h>2
+;-----------------

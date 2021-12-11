@@ -1,0 +1,6 @@
+20970 old <lang n="greek"></lang>, 5587 (Bhs.), 5684 (Bhs.); {@120,@} 5708 (Bhs.).—§ 588
+20970 new <div n="lb"><lang n="greek"></lang>, 5587 (Bhs.), 5684 (Bhs.); {@120,@} 5708 (Bhs.).—§ 588
+;-----------------
+21265 old <lang n="greek"></lang>, 2598 (Bh.); {@88<lang n="greek"></lang>,@} 2608 (Bh.), 2612 (Bh.), 2627 (Bhs.),
+21265 new <div n="lb"><lang n="greek"></lang>, 2598 (Bh.); {@88<lang n="greek"></lang>,@} 2608 (Bh.), 2612 (Bh.), 2627 (Bhs.),
+;-----------------

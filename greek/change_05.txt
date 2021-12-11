@@ -1,0 +1,333 @@
+60 old <div n="lb">Aśvinī (star of junction Vega or {%a%} Lyræ; see Whitney to Sū°
+60 new <div n="lb">Aśvinī (star of junction Vega or <lang n="greek">α</lang> Lyræ; see Whitney to Sū°
+;-----------------
+121 old <div n="lb">ṣṭhira's army), 7635 {%(i).%}—§ 578 (Bhīṣmavadhap.): VI,
+121 new <div n="lb">ṣṭhira's army), 7635 (<lang n="greek"></lang>).—§ 578 (Bhīṣmavadhap.): VI,
+;-----------------
+149 old <div n="lb">the Pāṇḍavas), 4209; {@95@} (<lang n="greek"></lang>), 4254 (fights Bhaga-
+149 new <div n="lb">the Pāṇḍavas), 4209; {@95@} (<lang n="greek"></lang>, <lang n="greek"></lang>), 4254 (fights Bhaga-
+;-----------------
+155 old <div n="lb">5157; {@112<lang n="greek"></lang>,@} 5234 (defends Yudhiṣṭhira); [{@115<lang n="greek"></lang>@} 5365:
+155 new <div n="lb">5157; {@112<lang n="greek"></lang>,@} 5234 (defends Yudhiṣṭhira); [{@115@}{%d%}, 5365:
+;-----------------
+158 old <div n="lb">(fights Duryodhana); {@118<lang n="greek"></lang>,@} 5560 (attacks Bhīṣma);
+158 new <div n="lb">(fights Duryodhana); {@118@}<lang n="greek"></lang>-<lang n="greek"></lang>, 5560 (attacks Bhīṣma);
+;-----------------
+162 old <div n="lb">day: § 592 (Saṃśaptakavadhap.): VII, {@23<lang n="greek"></lang>,@} 983 (his
+162 new <div n="lb">day: § 592 (Saṃśaptakavadhap.): VII, {@23@}<lang n="greek"></lang>-<lang n="greek"></lang>, 983 (his
+;-----------------
+250 old <div n="lb">etc. {%(i),%} & {%Abhimanyu,%} who slew the heir of {%Aśmaka;%}
+250 new <div n="lb">etc. (<lang n="greek"></lang>), & {%Abhimanyu,%} who slew the heir of {%Aśmaka;%}
+;-----------------
+614 old <div n="lb">ε Hydræ; v. Sū° Si°, p. 188). XIII, {@64,@} 3262 (C. has A°,
+614 new <div n="lb"><lang n="greek">ε</lang> Hydræ; v. Sū° Si°, p. 188). XIII, {@64,@} 3262 (C. has A°,
+;-----------------
+726 old <div n="lb">of a brahman: XIII, {@25<lang n="greek"></lang>,@} 1728 (Aṅgirasas tīrthayātrāyām,
+726 new <div n="lb">of a brahman: XIII, {@25@}{%s%}, 1728 (Aṅgirasas tīrthayātrāyām,
+;-----------------
+969 old <div n="lb">Kurukṣetra to the retreat of R.-ṛ. Śatayūpa (<lang n="greek"></lang>), who received
+969 new <div n="lb">Kurukṣetra to the retreat of R.-ṛ. Śatayūpa ({%b%}), who received
+;-----------------
+1478 old <div n="lb">Bhūriśravas, 14th day); {@145<lang n="greek"></lang>,@} 6063, 6097,
+1478 new <div n="lb">Bhūriśravas, 14th day); {@145@}<lang n="greek"></lang>, <lang n="greek"></lang>, <lang n="greek"></lang>, 6063, 6097,
+;-----------------
+1544 old <div n="lb">(together with others he attacks Arjuna); {@88,<lang n="greek"></lang>@}
+1544 new <div n="lb">(together with others he attacks Arjuna); {@88@}, <lang n="greek"></lang>, <lang n="greek"></lang>
+;-----------------
+3321 old <div n="lb">{@25<lang n="greek"></lang>,@} 1729 ({%°eḥ pure%}—a tīrtha—{%naraḥ snātvā Agnikanyāpure%}
+3321 new <div n="lb">{@25@}{%s%}, 1729 ({%°eḥ pure%}—a tīrtha—{%naraḥ snātvā Agnikanyāpure%}
+;-----------------
+3984 old <div n="lb">IX, {@47<lang n="greek"></lang>,@} 2753 (practising austerities in Kaubera-tīrtha, he
+3984 new <div n="lb">IX, {@47@}{%x%}, 2753 (practising austerities in Kaubera-tīrtha, he
+;-----------------
+4801 old <div n="lb">§ 775 (do.): XIII, {@166<lang n="greek"></lang>,@} 7678 (among the principal kings
+4801 new <div n="lb">§ 775 (do.): XIII, {@166@}<lang n="greek">η</lang>, 7678 (among the principal kings
+;-----------------
+4803 old <div n="lb">§ 782 (Brāhmaṇagītā): XIV, {@30<lang n="greek"></lang>,@} 840 {%(rājarṣim),%} (843),
+4803 new <div n="lb">§ 782 (Brāhmaṇagītā): XIV, {@30@}{%e%}, 840 {%(rājarṣim),%} (843),
+;-----------------
+5407 old <div n="lb">(enumeration).—§ 748 (Tārakavadhop.): XIII, {@86<lang n="greek"></lang>,@} 4201
+5407 new <div n="lb">(enumeration).—§ 748 (Tārakavadhop.): XIII, {@86@}{%a%}, 4201
+;-----------------
+5638 old {@Amitaujas,@}¦ a king. § 130 (Aṃśāvat.): I, {@67<lang n="greek"></lang>,@} 2648
+5638 new {@Amitaujas,@}¦ a king. § 130 (Aṃśāvat.): I, {@67@}{%a%}, 2648
+;-----------------
+10466 old <div n="lb">mika): IX, {@37,@} 2121, 2123 {%(°āṅ gaṇāḥ),%} 2125; {@38<lang n="greek"></lang>,@}
+10466 new <div n="lb">mika): IX, {@37,@} 2121, 2123 {%(°āṅ gaṇāḥ),%} 2125; {@38@}{%i%},
+;-----------------
+10468 old <div n="lb">2397; {@45<lang n="greek"></lang>@} (Skanda), 2509; {@46,@} 2656 (do.), 2677 {%(°o-gaṇāḥ);%}
+10468 new <div n="lb">2397; {@45@}{%u%} (Skanda), 2509; {@46,@} 2656 (do.), 2677 {%(°o-gaṇāḥ);%}
+;-----------------
+10469 old <div n="lb">{@49<lang n="greek"></lang>@} (Ādityatīrtha), 2848; {@51<lang n="greek"></lang>@} (Sārasvata), 2941 {%(°āṅ%}
+10469 new <div n="lb">{@49@}{%ee%} (Ādityatīrtha), 2848; {@51@}{%gg%} (Sārasvata), 2941 {%(°āṅ%}
+;-----------------
+10499 old <div n="lb">{%(°āṃ loke),%} 3282 {%(°āṃ gandhān);%} {@79<lang n="greek"></lang>,@} 3779 {%(Gandharvā°āṃ%}
+10499 new <div n="lb">{%(°āṃ loke),%} 3282 {%(°āṃ gandhān);%} {@79@}{%b%}, 3779 {%(Gandharvā°āṃ%}
+;-----------------
+11074 old <div n="lb">§ 772{%b%} (Pavanārjunas.): XIII, {@153<lang n="greek"></lang>@} The Haihaya king
+11074 new <div n="lb">§ 772{%b%} (Pavanārjunas.): XIII, {@153@}{%ff%} : The Haihaya king
+;-----------------
+11184 old <div n="lb">{@132<lang n="greek"></lang>,@} 5293, 5296. One day Droṇa caused an artificial bird
+11184 new <div n="lb">{@132@}{%f%}, 5293, 5296. One day Droṇa caused an artificial bird
+;-----------------
+11322 old <div n="lb">I, {@216<lang n="greek"></lang>,@} 7850: {%A.%} visited the tīrthas of the southern ocean,
+11322 new <div n="lb">I, {@216@}{%f%}, 7850: {%A.%} visited the tīrthas of the southern ocean,
+;-----------------
+11857 old <div n="lb">of his hand ({@23<lang n="greek"></lang>@}) {%A.%} could shoot sixty-one whetted and keen-
+11857 new <div n="lb">of his hand ({@23@}{%c%}) {%A.%} could shoot sixty-one whetted and keen-
+;-----------------
+14196 old <div n="lb">{@233<lang n="greek"></lang>,@} 8456: {%A.%} became jealous of Vasiṣṭha, one of the
+14196 new <div n="lb">{@233@}{%b%}, 8456: {%A.%} became jealous of Vasiṣṭha, one of the
+;-----------------
+14524 old {@Aṣṭāvakra@}<sup>2</sup>,¦ a tīrtha. § 733 (Ānuśāsan.): XIII, {@25<lang n="greek"></lang>,@}
+14524 new {@Aṣṭāvakra@}<sup>2</sup>,¦ a tīrtha. § 733 (Ānuśāsan.): XIII, {@25@}{%r%},
+;-----------------
+14738 old <div n="lb">§ 795 (Mahābhārata): XVIII, {@5<lang n="greek"></lang>,@} 199 {%(A°o D°aḥ Pitṝn%}
+14738 new <div n="lb">§ 795 (Mahābhārata): XVIII, {@5@}{%e%}, 199 {%(A°o D°aḥ Pitṝn%}
+;-----------------
+15688 old <div n="lb">(Bisast.): XIII, {@93<lang n="greek"></lang>,@} 4416, 4436, 4458 {%(°pramukhāḥ%}
+15688 new <div n="lb">(Bisast.): XIII, {@93@}<lang n="greek"></lang>, <lang n="greek"></lang>, <lang n="greek"></lang>, <lang n="greek"></lang>, 4416, 4436, 4458 {%(°pramukhāḥ%}
+;-----------------
+15690 old <div n="lb">(Ānuśāsan.): XIII, {@151<lang n="greek"></lang>,@} 7115 ({%°eḥ putraḥ Sārasvataḥ,%}
+15690 new <div n="lb">(Ānuśāsan.): XIII, {@151@}<lang n="greek"></lang>, <lang n="greek"></lang>, <lang n="greek"></lang>, 7115 ({%°eḥ putraḥ Sārasvataḥ,%}
+;-----------------
+15702 old <div n="lb">XIII, {@166<lang n="greek"></lang>,@} 7669 ({%°eḥ putraḥ Sārasvataḥ,%} among the
+15702 new <div n="lb">XIII, {@166@}<lang n="greek"></lang>, <lang n="greek"></lang>, 7669 ({%°eḥ putraḥ Sārasvataḥ,%} among the
+;-----------------
+15962 old {@Āvaha.@}¦ § 754 (Śukakṛtya): XII, {@328<lang n="greek"></lang>,@} 12401: The second
+15962 new {@Āvaha.@}¦ § 754 (Śukakṛtya): XII, {@328@}{%q%}, 12401: The second
+;-----------------
+16128 old {@Avṛhaka@}¦ (PCR. {%Vṛhaka%}). § 191 (Arjuna): I, {@123<lang n="greek"></lang>,@} 4813
+16128 new {@Avṛhaka@}¦ (PCR. {%Vṛhaka%}). § 191 (Arjuna): I, {@123@}{%a%}, 4813
+;-----------------
+16397 old <div n="lb">granted to {%Arundhatī%} (<lang n="greek"></lang>) by {%Mahādeva:%} the person who will
+16397 new <div n="lb">granted to {%Arundhatī%} ({%z%}) by {%Mahādeva:%} the person who will
+;-----------------
+16500 old {@Bāhu@}<sup>1</sup>.¦ § 554 (Sainyodyog.): V, {@4<lang n="greek"></lang>,@} 85.—Do.<sup>2</sup> § 562
+16500 new {@Bāhu@}<sup>1</sup>.¦ § 554 (Sainyodyog.): V, {@4@}<lang n="greek"></lang>, 85.—Do.<sup>2</sup> § 562
+;-----------------
+16501 old <div n="lb">(Bhagavadyānap.): V, {@74<lang n="greek"></lang>,@} 2731 (among eighteen kings
+16501 new <div n="lb">(Bhagavadyānap.): V, {@74@}<lang n="greek1">γ</lang>, 2731 (among eighteen kings
+;-----------------
+16506 old <div n="lb">{@227<lang n="greek"></lang>,@} 8263.
+16506 new <div n="lb">{@227<lang n="greek1">α</lang>,@} 8263.
+;-----------------
+16698 old <div n="lb">I, {@160<lang n="greek"></lang>@} (slain by Bhīṣma); {@160,@} 6207; {@163,@} 6287; {@164,@}
+16698 new <div n="lb">I, {@160{%ff%} (slain by Bhīṣma); {@160,@} 6207; {@163,@} 6287; {@164,@}
+;-----------------
+17073 old <div n="lb">{%Badarapācana (y)%} and of {%Arundhatī%} (<lang n="greek"></lang>).) Requested by
+17073 new <div n="lb">{%Badarapācana (y)%} and of {%Arundhatī (z)%}.) Requested by
+;-----------------
+17374 old <div n="lb">XII, {@245<lang n="greek"></lang>@} (?), 8901.
+17374 new <div n="lb">XII, {@245@}<lang n="greek1">β</lang> (?), 8901.
+;-----------------
+18016 old {@Barhiṣad@}<sup>2</sup>¦ <lang n="greek"></lang> (a ṛṣi). § 665 (Mokṣadh.): XII, {@208,@}
+18016 new {@Barhiṣad@}<sup>2</sup>¦ ? (a ṛṣi). § 665 (Mokṣadh.): XII, {@208,@}
+;-----------------
+20519 old <div n="lb">§ 749 (Ānuśās.): XIII, {@91<lang n="greek"></lang>,@} 4356.
+20519 new <div n="lb">§ 749 (Ānuśās.): XIII, {@91@}<lang n="greek1">γ</lang>, 4356.
+;-----------------
+21843 old <div n="lb">VI, {@75,@} 3304<lang n="greek"></lang>, 3309<lang n="greek"></lang>; {@76,@} 3329<lang n="greek"></lang>; {@77,@} 3345<sup>3</sup>; {@78,@} 3441; {@79,@}
+21843 new <div n="lb">VI, {@75,@} 3304<lang n="greek"></lang>, 3309<sup>2</sup>; {@76,@} 3329<lang n="greek"></lang>; {@77,@} 3345<sup>3</sup>; {@78,@} 3441; {@79,@}
+;-----------------
+22504 old <div n="lb">{%Dhṛṣṭadyumna%} placed {%Arjuna%} (<lang n="greek"></lang>) in the van of the army, and
+22504 new <div n="lb">{%Dhṛṣṭadyumna%} placed {%Arjuna%} ({%e%}) in the van of the army, and
+;-----------------
+23253 old <div n="lb">the {%Sauvīras,%} etc. (<lang n="greek"></lang>), abandoned {%Bhīṣma.%} A little before
+23253 new <div n="lb">the {%Sauvīras,%} etc. (<lang n="greek1">αα</lang>), abandoned {%Bhīṣma.%} A little before
+;-----------------
+23460 old <div n="lb">†4080(?), †4204(?)<lang n="greek"></lang>, †4315, †4503(?)<lang n="greek"></lang>, IX, 73, 569,
+23460 new <div n="lb">†4080(?), †4204(?)<lang n="greek"></lang>, †4315, †4503(?) <lang n="greek"></lang>, <lang n="greek"></lang>, IX, 73, 569,
+;-----------------
+23473 old {@Bhojakaṭa@}¦ (a city of the Bhojas). § 281<lang n="greek"></lang> (Bhīṣmaka):
+23473 new {@Bhojakaṭa@}¦ (a city of the Bhojas). § 281{%c%} (Bhīṣmaka):
+;-----------------
+24430 old {@Bhūtānāṃ mathanaḥ@}¦ (a warrior of Skanda): § 615<lang n="greek"></lang>
+24430 new {@Bhūtānāṃ mathanaḥ@}¦ (a warrior of Skanda): § 615{%u%}
+;-----------------
+24512 old {@Bhūtitīrthā@}¦ (a mātṛ). § 615<lang n="greek"></lang> (Skanda): IX, {@46<lang n="greek"></lang>,@} 2645.
+24512 new {@Bhūtitīrthā@}¦ (a mātṛ). § 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 2645.
+;-----------------
+24610 old <div n="lb">III, {@145,@} 11057 {%(śivaṃ).%}—§ 574<lang n="greek"></lang> (Jambūkh.): VI, {@6,@}
+24610 new <div n="lb">III, {@145,@} 11057 {%(śivaṃ).%}—§ 574{%f%} (Jambūkh.): VI, {@6,@}
+;-----------------
+24707 old <div n="lb">{%(vidyāṃ).%}—§ 555<lang n="greek"></lang> (Agni): V, {@16,@} 490 {%(mantraiḥ).%}—§ 560
+24707 new <div n="lb">{%(vidyāṃ).%}—§ 555{%f%} (Agni): V, {@16,@} 490 {%(mantraiḥ).%}—§ 560
+;-----------------
+24725 old <div n="lb">2338 (do.), 2356 {%(bale).%}—§ 615<lang n="greek"></lang> (Skanda): IX, {@46<lang n="greek"></lang>,@} 2655
+24725 new <div n="lb">2338 (do.), 2356 {%(bale).%}—§ 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 2655
+;-----------------
+24753 old <div n="lb">§ 755{%b%} (Nahuṣop.): XIII, {@100,@} 4803, 4809.—§ 757<lang n="greek"></lang>
+24753 new <div n="lb">§ 755{%b%} (Nahuṣop.): XIII, {@100,@} 4803, 4809.—§ 757{%n%}
+;-----------------
+24799 old <div n="lb">{@139,@} 5525 (acquired by Droṇa from Agniveśa).—§ 333<lang n="greek"></lang>
+24799 new <div n="lb">{@139,@} 5525 (acquired by Droṇa from Agniveśa).—§ 333{%e%}
+;-----------------
+25085 old <div n="lb">—§ 782<lang n="greek"></lang> (Guruśiṣyasaṃv.): XIV, {@44<lang n="greek"></lang>,@} 1222 {%(sthāvarāṇāṃ%}
+25085 new <div n="lb">—§ 782{%g%} (Guruśiṣyasaṃv.): XIV, {@44<lang n="greek"></lang>,@} 1222 {%(sthāvarāṇāṃ%}
+;-----------------
+25119 old <div n="lb">§ 560 (Sanatsujātap.): V, {@42,@} 1602; {@44,@} 1703.—§ 574<lang n="greek"></lang>
+25119 new <div n="lb">§ 560 (Sanatsujātap.): V, {@42,@} 1602; {@44,@} 1703.—§ 574{%j%}
+;-----------------
+25148 old <div n="lb">{@328,@} 12355.—§ 717<lang n="greek"></lang> (Uparicara): XII, {@338,@} 12845, 12856
+25148 new <div n="lb">{@328,@} 12355.—§ 717{%c%} (Uparicara): XII, {@338,@} 12845, 12856
+;-----------------
+25152 old <div n="lb">upper).—§ 730 (Ānuśāsanik.): XIII, {@14,@} 607.—§ 730<lang n="greek"></lang>
+25152 new <div n="lb">upper).—§ 730 (Ānuśāsanik.): XIII, {@14,@} 607.—§ 730{%g%}
+;-----------------
+25301 old <div n="lb">{%rājan, yathā Paśupater iva).%}—§ 552<lang n="greek"></lang> (Gāṇḍīva): IV, {@43,@}
+25301 new <div n="lb">{%rājan, yathā Paśupater iva).%}—§ 552{%c%} (Gāṇḍīva): IV, {@43,@}
+;-----------------
+25316 old <div n="lb">Meru).—§ 574<lang n="greek"></lang> (Bindusaras): VI, {@6<lang n="greek"></lang>,@} 241 (at Bindusaras,
+25316 new <div n="lb">Meru).—§ 574{%f%} (Bindusaras): VI, {@6<lang n="greek"></lang>,@} 241 (at Bindusaras,
+;-----------------
+25347 old <div n="lb">{%…).%}—§ 603<lang n="greek"></lang> (Tripura): VII, {@202,@} 9559 {%(°dattavarāḥ,%}
+25347 new <div n="lb">{%…).%}—§ 603{%d%} (Tripura): VII, {@202,@} 9559 {%(°dattavarāḥ,%}
+;-----------------
+25368 old <div n="lb">{@34<lang n="greek"></lang>,@} 1964 {%(°āṇam iva deveśaṃ).%}—§ 615<lang n="greek"></lang> (Saptasarasvatī):
+25368 new <div n="lb">{@34<lang n="greek"></lang>,@} 1964 {%(°āṇam iva deveśaṃ).%}—§ 615{%i%} (Saptasarasvatī):
+;-----------------
+25369 old <div n="lb">IX, {@38,@} VII), 2214.—§ 615<lang n="greek"></lang> (Maṅkanaka): IX, {@38,@} 2226
+25369 new <div n="lb">IX, {@38,@} VII), 2214.—§ 615{%j%} (Maṅkanaka): IX, {@38,@} 2226
+;-----------------
+25370 old <div n="lb">{%(°ādibhiḥ suraiḥ),%} 2238 {%(devā Brahmādayaḥ).%}—§ 615<lang n="greek"></lang>
+25370 new <div n="lb">{%(°ādibhiḥ suraiḥ),%} 2238 {%(devā Brahmādayaḥ).%}—§ 615{%n%}
+;-----------------
+25372 old <div n="lb">2313 {%(Sarvalokapitāmahaḥ).%}—§ 615<lang n="greek"></lang> (Skanda): IX, {@44,@}
+25372 new <div n="lb">2313 {%(Sarvalokapitāmahaḥ).%}—§ 615{%u%} (Skanda): IX, {@44,@}
+;-----------------
+25378 old <div n="lb">§ 615<lang n="greek"></lang> (Kurukṣetrak.): IX, {@53,@} 3023 {%(°ādyaiḥ suraiḥ),%}
+25378 new <div n="lb">§ 615{%kk%} (Kurukṣetrak.): IX, {@53,@} 3023 {%(°ādyaiḥ suraiḥ),%}
+;-----------------
+25438 old <div n="lb">{%svayaṃ);%} {@244,@} 8881 {%(°ṇā vihitā).%}—§ 678<lang n="greek"></lang> (Mṛtyu-Prajā-
+25438 new <div n="lb">{%svayaṃ);%} {@244,@} 8881 {%(°ṇā vihitā).%}—§ 678{%c%} (Mṛtyu-Prajā-
+;-----------------
+25462 old <div n="lb">12685 (among the Prajāpatis).—§ 717<lang n="greek"></lang> (Uparicara): XII,
+25462 new <div n="lb">12685 (among the Prajāpatis).—§ 717{%c%} (Uparicara): XII,
+;-----------------
+25504 old <div n="lb">{%bakasya).%}—§ 717<lang n="greek"></lang> (Brahma-Rudrasaṃv.): XII, {@351,@} (13734),
+25504 new <div n="lb">{%bakasya).%}—§ 717{%d%} (Brahma-Rudrasaṃv.): XII, {@351,@} (13734),
+;-----------------
+25510 old <div n="lb">loka), (<lang n="greek"></lang>), 624.—§ 730<lang n="greek"></lang> (Upamanyu): XIII, {@14<lang n="greek"></lang>,@} 731
+25510 new <div n="lb">loka), (<lang n="greek"></lang>), 624.—§ 730{%g%} (Upamanyu): XIII, {@14<lang n="greek"></lang>,@} 731
+;-----------------
+25560 old <div n="lb">§ 772<lang n="greek"></lang> (Pavanārjunasaṃv.): Vāyu said: A superior brahman
+25560 new <div n="lb">§ 772{%i%} (Pavanārjunasaṃv.): Vāyu said: A superior brahman
+;-----------------
+25570 old <div n="lb">saṃv.): XIII, {@155,@} 7233 ({%°ṇaḥ sutāṃ,%} i.e. Earth).—§ 772<lang n="greek"></lang>
+25570 new <div n="lb">saṃv.): XIII, {@155,@} 7233 ({%°ṇaḥ sutāṃ,%} i.e. Earth).—§ 772{%l%}
+;-----------------
+25572 old <div n="lb">{%(°dattavarā Daityāḥ).%}—§ 772<lang n="greek"></lang> (Kapa, pl.): XIII, {@158,@}
+25572 new <div n="lb">{%(°dattavarā Daityāḥ).%}—§ 772{%p%} (Kapa, pl.): XIII, {@158,@}
+;-----------------
+25927 old <div n="lb">PCR.).—§ 733<lang n="greek"></lang> (Viśālā): XIII, {@25,@} 1730 {%(°bhūtāḥ).%}—
+25927 new <div n="lb">PCR.).—§ 733{%t%} (Viśālā): XIII, {@25,@} 1730 {%(°bhūtāḥ).%}—
+;-----------------
+25954 old <div n="lb">{@35,@} 934 {%(paraṃ).%}—§ 782<lang n="greek"></lang> (Guruśiṣyasaṃv.): XIV, {@35,@}
+25954 new <div n="lb">{@35,@} 934 {%(paraṃ).%}—§ 782{%g%} (Guruśiṣyasaṃv.): XIV, {@35,@}
+;-----------------
+26129 old {@Brahmaṇaḥ kṣaya(ḥ).@}¦ § 615<lang n="greek"></lang> (Kurukṣetrak.):
+26129 new {@Brahmaṇaḥ kṣaya(ḥ).@}¦ § 615{%kk%} (Kurukṣetrak.):
+;-----------------
+26151 old <div n="lb">{%tad Viṣṇoḥ paramaṃ padaṃ).%}—§ 615<lang n="greek"></lang> (Asita-Devala): IX,
+26151 new <div n="lb">{%tad Viṣṇoḥ paramaṃ padaṃ).%}—§ 615{%ff%} (Asita-Devala): IX,
+;-----------------
+26158 old {@Brahmaṇaḥ saras.@}¦ § 615<lang n="greek"></lang> (Sārasvata): IX, {@51,@} 2943
+26158 new {@Brahmaṇaḥ saras.@}¦ § 615{%gg%} (Sārasvata): IX, {@51,@} 2943
+;-----------------
+26170 old <div n="lb">{%Brahmaṇaś ca,%} etc.).—§ 717<lang n="greek"></lang> (Uparicara): XII, {@337,@} 12816.
+26170 new <div n="lb">{%Brahmaṇaś ca,%} etc.).—§ 717{%c%} (Uparicara): XII, {@337,@} 12816.
+;-----------------
+26266 old {@Brahmaṇo loka(ḥ)@}¦ = Brahmaloka. § 615<lang n="greek"></lang> (Asita Devala):
+26266 new {@Brahmaṇo loka(ḥ)@}¦ = Brahmaloka. § 615{%ff%} (Asita Devala):
+;-----------------
+26377 old <div n="lb">encounter between Karṇa and Arjuna); {@88,@} †4490.—§ 615<lang n="greek"></lang>
+26377 new <div n="lb">encounter between Karṇa and Arjuna); {@88,@} †4490.—§ 615{%u%}
+;-----------------
+26379 old <div n="lb">—§ 615<lang n="greek"></lang> (Badarapacana): IX, {@48,@} 2794 (praised Badara-
+26379 new <div n="lb">—§ 615{%y%} (Badarapacana): IX, {@48,@} 2794 (praised Badara-
+;-----------------
+26380 old <div n="lb">pacana).—§ 615<lang n="greek"></lang> (Rāmatīrtha): IX, {@49,@} 2839 ({%deva-B°bhiḥ%}
+26380 new <div n="lb">pacana).—§ 615{%cc%} (Rāmatīrtha): IX, {@49,@} 2839 ({%deva-B°bhiḥ%}
+;-----------------
+26383 old <div n="lb">and Kaṇva).—§ 635 (do.): XII, {@37,@} 1358.—§ 656<lang n="greek"></lang>
+26383 new <div n="lb">and Kaṇva).—§ 635 (do.): XII, {@37,@} 1358.—§ 656{%d%}
+;-----------------
+27027 old <div n="lb">appellations of the king).—§ 460<lang n="greek"></lang> (Kalkin): III, {@190,@}
+27027 new <div n="lb">appellations of the king).—§ 460{%c%} (Kalkin): III, {@190,@}
+;-----------------
+31907 old <div n="lb">§ 578 (Bhīṣmavadhap.): VI, {@45<sup>9</sup><lang n="greek"></lang>,@} 1704, 1705 (fought with
+31907 new <div n="lb">§ 578 (Bhīṣmavadhap.): VI, {@45@}<sup>9</sup>, 1704, 1705 (fought with
+;-----------------
+33583 old <div n="lb">{@82,@} 3602, 3604, 3606, 3611, 3613, 3614; {@85<lang n="greek"></lang>,@} †3759, †3769,
+33583 new <div n="lb">{@82,@} 3602, 3604, 3606, 3611, 3613, 3614; {@85@}<sup>6</sup>, †3759, †3769,
+;-----------------
+45586 old <div n="lb">§ 579 (do.): VI, {@53<lang n="greek"></lang>,@} 2232 ({%Virāṭa-D°au,%} attacked by Droṇa).
+45586 new <div n="lb">§ 579 (do.): VI, {@53@}<sup>7</sup>, 2232 ({%Virāṭa-D°au,%} attacked by Droṇa).
+;-----------------
+46789 old <div n="lb">2749 (attacks Bhīmasena); {@63<lang n="greek"></lang>,@} 2780 {%(putraḥ…tava);%}
+46789 new <div n="lb">2749 (attacks Bhīmasena); {@63@}<sup>7</sup>, 2780 {%(putraḥ…tava);%}
+;-----------------
+48907 old <div n="lb">(v. 10902, read with B. {%puṇyā%} for {%puśyā%}) (<lang n="greek"></lang>), and then
+48907 new <div n="lb">(v. 10902, read with B. {%puṇyā%} for {%puśyā%}) ({%c%}), and then
+;-----------------
+50807 old <div n="lb">{%Sūrya,%} etc. (<lang n="greek"></lang>) are created and destroyed by {%Kāla. Kāla%}
+50807 new <div n="lb">{%Sūrya,%} etc. (<lang n="greek1">α</lang>) are created and destroyed by {%Kāla. Kāla%}
+;-----------------
+51507 old <div n="lb">{@182@}). Concluding from {%Karṇa's%} not using the dart (<lang n="greek"></lang>),
+51507 new <div n="lb">{@182@}). Concluding from {%Karṇa's%} not using the dart (<lang n="greek"></lang>, <lang n="greek"></lang>),
+;-----------------
+52060 old <div n="lb">bows belonged, first mentioning the Gāṇḍīva (<lang n="greek"></lang>), which is
+52060 new <div n="lb">bows belonged, first mentioning the Gāṇḍīva ({%c%}), which is
+;-----------------
+53602 old <div n="lb">then they had met Sampāti, the brother of Jaṭāyu(s) (<lang n="greek"></lang>),
+53602 new <div n="lb">then they had met Sampāti, the brother of Jaṭāyu(s) ({%c%}),
+;-----------------
+64262 old <div n="lb">the science of {%Pratismṛti,%} by means of which {%Arjuna%} (<lang n="greek"></lang>) should
+64262 new <div n="lb">the science of {%Pratismṛti,%} by means of which {%Arjuna%} ({%b%}) should
+;-----------------
+83531 old <div n="lb">{%Prajāpatis%} that came after these are: (<lang n="greek"></lang>) in {%Atri's%} race:
+83531 new <div n="lb">{%Prajāpatis%} that came after these are: ({%a%}) in {%Atri's%} race:
+;-----------------
+88068 old <div n="lb">weapon.” {%Vyāsa%} told him the story of {%Nārāyaṇa (<lang n="greek"></lang>);%}
+88068 new <div n="lb">weapon.” {%Vyāsa%} told him the story of {%Nārāyaṇa%} ({%b%});
+;-----------------
+93206 old <div n="lb">vadyānap.): V, {@130<lang n="greek"></lang>,@} 4413 (robbed by Kṛṣṇa from heaven).
+93206 new <div n="lb">vadyānap.): V, {@130@}<lang n="greek1">ξ</lang>, 4413 (robbed by Kṛṣṇa from heaven).
+;-----------------
+97010 old <div n="lb">vadhap.): VI, {@77<sup>5</sup>,@} †3380, †3381, (<lang n="greek"></lang>), 3386 (employed by
+97010 new <div n="lb">vadhap.): VI, {@77<sup>5</sup>,@} †3380, †3381, (<sup>7</sup>), 3386 (employed by
+;-----------------
+100380 old <div n="lb">the king rest upon the king's priest: {%Mucukundopākhyāna (<lang n="greek"></lang>),%}
+100380 new <div n="lb">the king rest upon the king's priest: {%Mucukundopākhyāna%} ({%g%}),
+;-----------------
+104859 old <div n="lb">{@43<lang n="greek"></lang>,@} (1546), 1555.—§ 578 (do.): VI, {@44<lang n="greek"></lang>,@} 1655; {@45<lang n="greek"></lang>,@}
+104859 new <div n="lb">{@43<lang n="greek"></lang>,@} (1546), 1555.—§ 578 (do.): VI, {@44<lang n="greek"></lang>,@} 1655; {@45@}<sup>6</sup>,
+;-----------------
+105836 old {@Sambhalagrāma,@}¦ name of a city. § 460<lang n="greek"></lang> (Kalkin): III,
+105836 new {@Sambhalagrāma,@}¦ name of a city. § 460{%c%} (Kalkin): III,
+;-----------------
+105911 old <div n="lb">VI, {@20,@} †754.—[§ 591 (Saṃśaptakavadhap.): VII, {@17<lang n="greek"></lang>,@}
+105911 new <div n="lb">VI, {@20,@} †754.—[§ 591 (Saṃśaptakavadhap.): VII, {@17@}<lang n="greek"></lang>-<lang n="greek"></lang>,
+;-----------------
+107371 old <div n="lb">—§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek"></lang>,@} 7123 (read {%Sāṅkhya-%}
+107371 new <div n="lb">—§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek1">λ</lang>,@} 7123 (read {%Sāṅkhya-%}
+;-----------------
+120079 old <div n="lb">(Mokṣadh.): XII, {@208<lang n="greek"></lang>,@} 7585.—§ 770 (Ānuśāsanik.):
+120079 new <div n="lb">(Mokṣadh.): XII, {@208@}<lang n="greek1">δ</lang>, 7585.—§ 770 (Ānuśāsanik.):
+;-----------------
+120080 old <div n="lb">XIII, {@151<lang n="greek"></lang>,@} 7090.—Do.<sup>3</sup> = Kṛṣṇa: XII, 1668.
+120080 new <div n="lb">XIII, {@151@}<lang n="greek1">β</lang>, 7090.—Do.<sup>3</sup> = Kṛṣṇa: XII, 1668.
+;-----------------
+125220 old <div n="lb">XIII, {@85<lang n="greek"></lang>,@} 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.
+125220 new <div n="lb">XIII, {@85@}<lang n="greek1">η</lang>, 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.
+;-----------------
+126953 old {@Vātapati,@}¦ a Vṛṣṇi prince. § 232 (Svayaṃvarap.): I, {@18<lang n="greek"></lang>,@}
+126953 new {@Vātapati,@}¦ a Vṛṣṇi prince. § 232 (Svayaṃvarap.): I, {@186@},
+;-----------------
+130311 old <div n="lb">(<lang n="greek"></lang>) 3557 (do., fought with Irāvat); {@83<sup>3</sup>,@} 3656; {@86<sup>9</sup>,@} 3823
+130311 new <div n="lb">(<sup>1</sup>) 3557 (do., fought with Irāvat); {@83<sup>3</sup>,@} 3656; {@86<sup>9</sup>,@} 3823
+;-----------------
+130915 old <div n="lb">2149; {@53<lang n="greek"></lang>,@} 2232 {%(°-Drupadau vṛddhau).%}—§ 580 (do.): VI,
+130915 new <div n="lb">2149; {@53@}<sup>7</sup>, 2232 {%(°-Drupadau vṛddhau).%}—§ 580 (do.): VI,
+;-----------------

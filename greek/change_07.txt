@@ -1,0 +1,39 @@
+;-----------------
+2033 old {@Ādideva@}<sup>2</sup>¦ = Kṛṣṇa: XIII, 6893, 7373.
+2033 new {@Ādideva@}<sup>3</sup>¦ = Kṛṣṇa: XIII, 6893, 7373.
+;-----------------
+16501 old <div n="lb">(Bhagavadyānap.): V, {@74@}<lang n="greek1">γ</lang>, 2731 (among eighteen kings
+16501 new <div n="lb">(Bhagavadyānap.): V, {@74@}<lang n="greek">γ</lang>, 2731 (among eighteen kings
+;-----------------
+16506 old <div n="lb">{@227<lang n="greek1">α</lang>,@} 8263.
+16506 new <div n="lb">{@227<lang n="greek">α</lang>,@} 8263.
+;-----------------
+16698 old <div n="lb">I, {@160{%ff%} (slain by Bhīṣma); {@160,@} 6207; {@163,@} 6287; {@164,@}
+16698 new <div n="lb">I, {@160@}{%ff%} (slain by Bhīṣma); {@160,@} 6207; {@163,@} 6287; {@164,@}
+;-----------------
+17374 old <div n="lb">XII, {@245@}<lang n="greek1">β</lang> (?), 8901.
+17374 new <div n="lb">XII, {@245@}<lang n="greek">β</lang> (?), 8901.
+;-----------------
+20519 old <div n="lb">§ 749 (Ānuśās.): XIII, {@91@}<lang n="greek1">γ</lang>, 4356.
+20519 new <div n="lb">§ 749 (Ānuśās.): XIII, {@91@}<lang n="greek">γ</lang>, 4356.
+;-----------------
+23253 old <div n="lb">the {%Sauvīras,%} etc. (<lang n="greek1">αα</lang>), abandoned {%Bhīṣma.%} A little before
+23253 new <div n="lb">the {%Sauvīras,%} etc. (<lang n="greek">αα</lang>), abandoned {%Bhīṣma.%} A little before
+;-----------------
+50807 old <div n="lb">{%Sūrya,%} etc. (<lang n="greek1">α</lang>) are created and destroyed by {%Kāla. Kāla%}
+50807 new <div n="lb">{%Sūrya,%} etc. (<lang n="greek">α</lang>) are created and destroyed by {%Kāla. Kāla%}
+;-----------------
+93206 old <div n="lb">vadyānap.): V, {@130@}<lang n="greek1">ξ</lang>, 4413 (robbed by Kṛṣṇa from heaven).
+93206 new <div n="lb">vadyānap.): V, {@130@}<lang n="greek">ξ</lang>, 4413 (robbed by Kṛṣṇa from heaven).
+;-----------------
+107371 old <div n="lb">—§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek1">λ</lang>,@} 7123 (read {%Sāṅkhya-%}
+107371 new <div n="lb">—§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek">λ</lang>,@} 7123 (read {%Sāṅkhya-%}
+;-----------------
+120079 old <div n="lb">(Mokṣadh.): XII, {@208@}<lang n="greek1">δ</lang>, 7585.—§ 770 (Ānuśāsanik.):
+120079 new <div n="lb">(Mokṣadh.): XII, {@208@}<lang n="greek">δ</lang>, 7585.—§ 770 (Ānuśāsanik.):
+;-----------------
+120080 old <div n="lb">XIII, {@151@}<lang n="greek1">β</lang>, 7090.—Do.<sup>3</sup> = Kṛṣṇa: XII, 1668.
+120080 new <div n="lb">XIII, {@151@}<lang n="greek">β</lang>, 7090.—Do.<sup>3</sup> = Kṛṣṇa: XII, 1668.
+;-----------------
+125220 old <div n="lb">XIII, {@85@}<lang n="greek1">η</lang>, 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.
+125220 new <div n="lb">XIII, {@85@}<lang n="greek">η</lang>, 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.

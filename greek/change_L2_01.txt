@@ -1,0 +1,78 @@
+168 old <L>27<pc>003-2<k1>ABizecanikaparva<k2>ABizecanika parva
+168 new <L>27<pc>003-2<k1>ABizecanika<k2>ABizecanika
+;-----------------
+169 old {@Ābhiṣecanika(m) parva@}¦: I, {@2@}, 350 ({%Dharmarājasya dhīmataḥ%}), i.e. XII, {@40@} (Yudhiṣṭhirābhiṣekaḥ) (Parvas).
+169 new {@Ābhiṣecanika(m)@}¦ parva: I, {@2@}, 350 ({%Dharmarājasya dhīmataḥ%}), i.e. XII, {@40@} (Yudhiṣṭhirābhiṣekaḥ) (Parvas).
+;-----------------
+3336 old <LEND>
+3336 new <LEND>;; [Note. This is updated from the Addendum]
+;-----------------
+4999 old ;[Note. This is a new entry from the Addendum]
+4999 new <LEND>;; [Note. This is a new entry from the Addendum]
+;-----------------
+7207 old <L>977.1<pc>795-2<k1>atula<k2>atula
+7207 new <L>977.2<pc>795-2<k1>atula<k2>atula
+;-----------------
+7901 old <L>1081.1<pc>104-1<k1>bAhu<k2>bAhu<h>3
+7901 new <L>1081.2<pc>104-1<k1>bAhu<k2>bAhu<h>3
+;-----------------
+9266 old <L>1291<pc>119-1<k1>Baktavatsala<k2>Baktavatsala<h>2
+9266 new <L>1291.1<pc>119-1<k1>Baktavatsala<k2>Baktavatsala<h>2
+;-----------------
+11971 old <L>1668.2<pc>798-1<k1>BUti<k2>BUti<h>4
+11971 new <L>1668.3<pc>798-1<k1>BUti<k2>BUti<h>4
+;-----------------
+12846 old <L>17441<pc>162-2<k1>brAhman<k2>brAhman<h>3
+12846 new <L>1744.1<pc>162-2<k1>brAhman<k2>brAhman<h>3
+;-----------------
+13812 old <L>1874<pc>798-2<k1>bfhatkzattra<k2>bfhatkzattra<h>3
+13812 new <L>1874.1<pc>798-2<k1>bfhatkzattra<k2>bfhatkzattra<h>3
+;-----------------
+13816 old <L>1874<pc>799-1<k1>bfhatkzattra<k2>bfhatkzattra<h>4
+13816 new <L>1874.2<pc>799-1<k1>bfhatkzattra<k2>bfhatkzattra<h>4
+;-----------------
+18383 old <L>2607<pc>799-2<k1>SiSira<k2>SiSira<h>3
+18383 new <L>2607.1<pc>799-2<k1>SiSira<k2>SiSira<h>3
+;-----------------
+23562 old <L>3416<pc>801-1<k1>Darma<k2>Darma<h>7
+23562 new <L>3416.1<pc>801-1<k1>Darma<k2>Darma<h>7
+;-----------------
+32006 old <L>4612<pc>327-2<k1>ilA<k2>ilA<h>2
+32006 new <L>4612.1<pc>327-2<k1>ilA<k2>ilA<h>2
+;-----------------
+35663 old <L>5112<pc>374-1<k1>kalA<k2>kalA<h>2
+35663 new <L>5112.1<pc>374-1<k1>kalA<k2>kalA<h>2
+;-----------------
+35667 old <L>5112.1<pc>803-1<k1>kalA<k2>kalA<h>3
+35667 new <L>5112.2<pc>803-1<k1>kalA<k2>kalA<h>3
+;-----------------
+37391 old <L>5403<pc>383-2<k1>karaRa<k2>karaRa<h>2
+37391 new <L>5403.1<pc>383-2<k1>karaRa<k2>karaRa<h>2
+;-----------------
+37399 old <L>5404<pc>383-2<k1>kAraRa<k2>kAraRa<h>2
+37399 new <L>5404.1<pc>383-2<k1>kAraRa<k2>kAraRa<h>2
+;-----------------
+52019 old <L>7713<pc>519-1<k1>>nirfti<k2>>nirfti<h>1
+52019 new <L>7713<pc>519-1<k1>nirfti<k2>nirfti<h>1
+;-----------------
+52025 old <L>7714<pc>519-1<k1>>nirfti<k2>>nirfti<h>2
+52025 new <L>7714<pc>519-1<k1>nirfti<k2>nirfti<h>2
+;-----------------
+52919 old <L>7871.1<pc>806-1<k1>pakzivaraDvaja<k2>pakzivaraDvaja
+52919 new <L>7871.2<pc>806-1<k1>pakzivaraDvaja<k2>pakzivaraDvaja
+;-----------------
+54949 old <L>8234<pc>806-1<k1>patiKecara<k2>patiKecara
+54949 new <L>8234.1<pc>806-1<k1>patiKecara<k2>patiKecara
+;-----------------
+55234 old <L>8282<pc>548-1<k1>pOravanandana<k2>pOravanandana<h>5
+55234 new <L>8282.1<pc>548-1<k1>pOravanandana<k2>pOravanandana<h>5
+;-----------------
+55347 old <L>8303.1<pc>548-2<k1>pavana<k2>pavana<h>3
+55347 new <L>8303.2<pc>548-2<k1>pavana<k2>pavana<h>3
+;-----------------
+64222 old <L>9657.1<pc>625-2<k1>sarvatomuKa<k2>sarvatomuKa<h>3
+64222 new <L>9657.2<pc>625-2<k1>sarvatomuKa<k2>sarvatomuKa<h>3
+;-----------------
+81004 old <L>12324.2<pc>753-2<k1>vfzAkapi<k2>vfzAkapi<h>6
+81004 new <L>12324.3<pc>753-2<k1>vfzAkapi<k2>vfzAkapi<h>6
+;-----------------

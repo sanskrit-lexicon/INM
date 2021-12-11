@@ -1,0 +1,711 @@
+505 old <L>40<pc>004-1<k1>acAryamuKya<k2>acAryamuKya
+505 new <L>40<pc>004-1<k1>AcAryamuKya<k2>AcAryamuKya
+;-----------------
+506 old {@Acāryamukhya@}¦ = Droṇa: VII, 8780, 8800.
+506 new {@Ācāryamukhya@}¦ = Droṇa: VII, 8780, 8800.
+;-----------------
+748 old <L>72<pc>005-1<k1>aSrama<k2>aSrama
+748 new <L>72<pc>005-1<k1>ASrama<k2>ASrama
+;-----------------
+749 old {@Aśrama@}¦ = Viṣṇu (1000 names).
+749 new {@Āśrama@}¦ = Viṣṇu (1000 names).
+;-----------------
+778 old <L>78<pc>005-2<k1>aSramavAsa<k2>aSramavAsa<h>2
+778 new <L>78<pc>005-2<k1>ASramavAsa<k2>ASramavAsa<h>2
+;-----------------
+779 old {@Aśramavāsa@}<sup>2</sup>¦ (do.) = Āśramavāsikaparvan. § 11 (Parvas.):
+779 new {@Āśramavāsa@}<sup>2</sup>¦ (do.) = Āśramavāsikaparvan. § 11 (Parvas.):
+;-----------------
+1660 old <L>122<pc>011-1<k1>aSvayuja<k2>aSvayuja
+1660 new <L>122<pc>011-1<k1>ASvayuja<k2>ASvayuja
+;-----------------
+1661 old {@Aśvayuja@}¦ (No. 88), adj. § 759 (Ānuśāsanik.): XIII, {@106,@}
+1661 new {@Āśvayuja@}¦ (No. 88), adj. § 759 (Ānuśāsanik.): XIII, {@106,@}
+;-----------------
+1944 old <L>148<pc>012-2<k1>aDiraTi<k2>aDiraTi
+1944 new <L>148<pc>012-2<k1>ADiraTi<k2>ADiraTi
+;-----------------
+1945 old {@Adhirathi@}¦ = Karṇa: III, 17179.—V, 4917.—(VI, 5826,
+1945 new {@Ādhirathi@}¦ = Karṇa: III, 17179.—V, 4917.—(VI, 5826,
+;-----------------
+2032 old <L>164<pc>013-1<k1>Adideva<k2>Adideva<h>2
+2032 new <L>164<pc>013-1<k1>Adideva<k2>Adideva<h>3
+;-----------------
+2423 old <L>189<pc>015-2<k1>adityaparvata<k2>adityaparvata
+2423 new <L>189<pc>015-2<k1>Adityaparvata<k2>Adityaparvata
+;-----------------
+2424 old {@Adityaparvata,@}¦ the hermitage of Śiva: XII, 12332
+2424 new {@Ādityaparvata,@}¦ the hermitage of Śiva: XII, 12332
+;-----------------
+2428 old <L>190<pc>015-2<k1>adityapaTa<k2>adityapaTa
+2428 new <L>190<pc>015-2<k1>AdityapaTa<k2>AdityapaTa
+;-----------------
+2429 old {@Adityapatha@}¦ (“the way of the Sun”) = the sky: I, 1148.
+2429 new {@Ādityapatha@}¦ (“the way of the Sun”) = the sky: I, 1148.
+;-----------------
+2437 old <L>192<pc>015-2<k1>adityapratima<k2>adityapratima
+2437 new <L>192<pc>015-2<k1>Adityapratima<k2>Adityapratima
+;-----------------
+2438 old {@Adityapratima@}¦ (“like unto the Sun”) = Śiva: XIII, 889.
+2438 new {@Ādityapratima@}¦ (“like unto the Sun”) = Śiva: XIII, 889.
+;-----------------
+2921 old <L>228<pc>018-2<k1>aGaRwin<k2>aGaRwin
+2921 new <L>228<pc>018-2<k1>aGaRwaGaRwin<k2>aGaRwaGaRwin
+;-----------------
+2922 old {@Aghaṇṭin@}¦ = Śiva (1000 names<sup>1</sup>).
+2922 new {@Aghaṇṭaghaṇṭin@}¦ = Śiva (1000 names<sup>1</sup>).
+;-----------------
+3818 old <L>270<pc>024-2<k1>ahas<k2>ahas<h>1
+3818 new <L>270<pc>024-2<k1>ahar<k2>ahar<h>3
+;-----------------
+3819 old {@Ahas@}<sup>1</sup>¦ = Śiva (1000 names<sup>2</sup>).
+3819 new {@Ahar@}<sup>3</sup>¦ = Śiva (1000 names<sup>2</sup>).
+;-----------------
+3822 old <L>271<pc>024-2<k1>ahas<k2>ahas<h>2
+3822 new <L>271<pc>024-2<k1>ahar<k2>ahar<h>4
+;-----------------
+3823 old {@Ahas@}<sup>2</sup>¦ = Viṣṇu (1000 names).
+3823 new {@Ahar@}<sup>4</sup>¦ = Viṣṇu (1000 names).
+;-----------------
+3826 old <L>272<pc>024-2<k1>ahibraDna<k2>ahibraDna
+3826 new <L>272<pc>024-2<k1>ahibraDna<k2>ahi braDna
+;-----------------
+4317 old <L>328<pc>027-1<k1>ajagaraparvan<k2>ajagaraparvan
+4317 new <L>328<pc>027-1<k1>Ajagaraparvan<k2>Ajagaraparvan
+;-----------------
+4318 old {@Ajagaraparvan@}¦ (“the section relating to the Boa”; the
+4318 new {@Ājagaraparvan@}¦ (“the section relating to the Boa”; the
+;-----------------
+4648 old <L>369<pc>028-2<k1>akfti<k2>akfti
+4648 new <L>369<pc>028-2<k1>Akfti<k2>Akfti
+;-----------------
+4649 old {@Akṛti.@}¦ § 273 (Rājasūyārambhap.): II, {@14,@} 586 (brother of
+4649 new {@Ākṛti.@}¦ § 273 (Rājasūyārambhap.): II, {@14,@} 586 (brother of
+;-----------------
+5804 old <L>484<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa
+5804 new <L>484<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa<h>1
+;-----------------
+5805 old {@Amūrtarayasa,@}¦ an ancient king. § 656 (Khaḍgotp.):
+5805 new {@Amūrtarayasa@}<sup>1</sup>,¦ an ancient king. § 656 (Khaḍgotp.):
+;-----------------
+5810 old <L>485<pc>035-1<k1>amUrtarayasa<k2>amUrtarayasa
+5810 new <L>485<pc>035-1<k1>AmUrtarayasa<k2>AmUrtarayasa<h>2
+;-----------------
+5811 old {@Amūrtarayasa@}¦ = Gaya.
+5811 new {@Āmūrtarayasa@}<sup>2</sup>¦ = Gaya.
+;-----------------
+6746 old <L>602<pc>039-2<k1>aNgirasa<k2>aNgirasa
+6746 new <L>602<pc>039-2<k1>ANgirasa<k2>ANgirasa
+;-----------------
+6747 old {@Aṅgirasa(ṃ)@}¦ (“on the descendants of Aṅgiras”). § 488
+6747 new {@Āṅgirasa(ṃ)@}¦ (“on the descendants of Aṅgiras”). § 488
+;-----------------
+10154 old <L>711<pc>063-1<k1>apagA<k2>apagA<h>1
+10154 new <L>711<pc>063-1<k1>ApagA<k2>ApagA<h>1
+;-----------------
+10155 old {@Apagā@}<sup>1</sup>,¦ a river. § 364 (Tīrthay.): III, {@83,@} 6038 {%(Siddha-%}
+10155 new {@Āpagā@}<sup>1</sup>,¦ a river. § 364 (Tīrthay.): III, {@83,@} 6038 {%(Siddha-%}
+;-----------------
+10159 old <L>712<pc>063-1<k1>apagA<k2>apagA<h>2
+10159 new <L>712<pc>063-1<k1>ApagA<k2>ApagA<h>2
+;-----------------
+10160 old {@Apagā@}<sup>2</sup>,¦ a river in the country of the Madras. § 607
+10160 new {@Āpagā@}<sup>2</sup>,¦ a river in the country of the Madras. § 607
+;-----------------
+10164 old <L>713<pc>063-1<k1>apagAsuta<k2>apagAsuta
+10164 new <L>713<pc>063-1<k1>ApagAsuta<k2>ApagAsuta
+;-----------------
+10165 old {@Apagāsuta@}¦ (“son of the river”) = Bhīṣma, q.v.
+10165 new {@Āpagāsuta@}¦ (“son of the river”) = Bhīṣma, q.v.
+;-----------------
+10168 old <L>714<pc>063-1<k1>apageya<k2>apageya
+10168 new <L>714<pc>063-1<k1>Apageya<k2>Apageya
+;-----------------
+10169 old {@Apageya@}¦ (“son of the river”) = Bhīṣma, q.v.
+10169 new {@Āpageya@}¦ (“son of the river”) = Bhīṣma, q.v.
+;-----------------
+10297 old <L>736<pc>063-2<k1>apava<k2>apava
+10297 new <L>736<pc>063-2<k1>Apava<k2>Apava
+;-----------------
+10298 old {@Apava@}¦ = Vasiṣṭha. § 163 (Bhīṣmotp.): I, {@98,@} 3918 (had
+10298 new {@Āpava@}¦ = Vasiṣṭha. § 163 (Bhīṣmotp.): I, {@98,@} 3918 (had
+;-----------------
+10575 old <L>753<pc>065-2<k1>apta<k2>apta
+10575 new <L>753<pc>065-2<k1>Apta<k2>Apta
+;-----------------
+10576 old {@Apta,@}¦ a serpent. § 47 (Sarpanāmak.): I, {@35,@} 1553.—§ 564
+10576 new {@Āpta,@}¦ a serpent. § 47 (Sarpanāmak.): I, {@35,@} 1553.—§ 564
+;-----------------
+10659 old <L>763<pc>065-2<k1>araRyaka<k2>araRyaka<h>1
+10659 new <L>763<pc>065-2<k1>AraRyaka<k2>AraRyaka<h>1
+;-----------------
+10660 old {@Araṇyaka@}<sup>1</sup>,¦ the Āraṇyaka or Āraṇyakas, considered as
+10660 new {@Āraṇyaka@}<sup>1</sup>,¦ the Āraṇyaka or Āraṇyakas, considered as
+;-----------------
+10690 old <L>764<pc>066-1<k1>araRyaka<k2>araRyaka<h>2
+10690 new <L>764<pc>066-1<k1>AraRyaka<k2>AraRyaka<h>2
+;-----------------
+10691 old {@Araṇyaka@}<sup>2</sup>¦ = Āraṇyakaparvan. § 10 (Parvas.): I, {@2,@} 319
+10691 new {@Āraṇyaka@}<sup>2</sup>¦ = Āraṇyakaparvan. § 10 (Parvas.): I, {@2,@} 319
+;-----------------
+10701 old <L>765<pc>066-1<k1>araRyakaparvan<k2>araRyakaparvan
+10701 new <L>765<pc>066-1<k1>AraRyakaparvan<k2>AraRyakaparvan
+;-----------------
+10702 old {@Araṇyakaparvan@}¦ (“section relating to the forest life of
+10702 new {@Āraṇyakaparvan@}¦ (“section relating to the forest life of
+;-----------------
+10914 old <L>784<pc>067-1<k1>Ardracarman<k2>Ardracarman
+10914 new <L>784<pc>067-1<k1>ArdracarmAbaravfta<k2>ArdracarmAbaravfta
+;-----------------
+10915 old {@Ārdracarman@}¦ = Śiva (1000 names<sup>2</sup>).
+10915 new {@Ārdracarmāmbaravṛta@}¦ = Śiva (1000 names<sup>2</sup>).
+;-----------------
+14032 old <L>831<pc>090-2<k1>arzwizeRa<k2>arzwizeRa<h>1
+14032 new <L>831<pc>090-2<k1>ArzwizeRa<k2>ArzwizeRa<h>1
+;-----------------
+14033 old {@Arṣṭiṣeṇa@}<sup>1</sup>,¦ a ṛṣi. § 11 (Parvas.): I, {@2,@} 456 {%(°āśrame).%}
+14033 new {@Ārṣṭiṣeṇa@}<sup>1</sup>,¦ a ṛṣi. § 11 (Parvas.): I, {@2,@} 456 {%(°āśrame).%}
+;-----------------
+14109 old <L>840<pc>091-1<k1>aruja<k2>aruja
+14109 new <L>840<pc>091-1<k1>Aruja<k2>Aruja
+;-----------------
+14110 old {@Aruja.@}¦ § 537 (Rāma-Rāvaṇa-y.): III, {@285<lang n="greek"></lang>,@} 16365 (a
+14110 new {@Āruja.@}¦ § 537 (Rāma-Rāvaṇa-y.): III, {@285<lang n="greek"></lang>,@} 16365 (a
+;-----------------
+14262 old <L>853<pc>091-2<k1>aruRi<k2>aruRi<h>2
+14262 new <L>853<pc>091-2<k1>AruRi<k2>AruRi<h>2
+;-----------------
+14263 old {@Aruṇi@}<sup>2</sup>.¦ § 99 (Aṃśāvat.): I, {@65,@} 2548 (a Vainateya).—§ 191
+14263 new {@Āruṇi@}<sup>2</sup>.¦ § 99 (Aṃśāvat.): I, {@65,@} 2548 (a Vainateya).—§ 191
+;-----------------
+15351 old <L>917<pc>099-1<k1>asurAyaRi<k2>asurAyaRi
+15351 new <L>917<pc>099-1<k1>AsurAyaRi<k2>AsurAyaRi
+;-----------------
+15352 old {@Asurāyaṇi,@}¦ a son of Viśvāmitra. § 721{%b%} (Viśvāmitrop.):
+15352 new {@Āsurāyaṇi,@}¦ a son of Viśvāmitra. § 721{%b%} (Viśvāmitrop.):
+;-----------------
+15393 old <L>925<pc>099-1<k1>atapana<k2>atapana
+15393 new <L>925<pc>099-1<k1>Atapana<k2>Atapana
+;-----------------
+15394 old {@Atapana@}¦ = Śiva (1000 names<sup>1</sup>).
+15394 new {@Ātapana@}¦ = Śiva (1000 names<sup>1</sup>).
+;-----------------
+15484 old <L>942<pc>099-1<k1>aTida<k2>aTida
+15484 new <L>942<pc>099-1<k1>aWida<k2>aWida
+;-----------------
+15485 old {@Athida,@}¦ v. Alinda.
+15485 new {@Aṭhida,@}¦ v. Alinda.
+;-----------------
+15559 old <L>958<pc>099-2<k1>AtiTi<k2>AtiTi
+15559 new <L>958<pc>099-2<k1>atiTi<k2>atiTi
+;-----------------
+15560 old {@Ātithi(n).@}¦ § 632{%b%} (Ṣoḍarājop.): XII, {@29,@} 917 {%(Suhotrañ%}
+15560 new {@Atithi(n).@}¦ § 632{%b%} (Ṣoḍarājop.): XII, {@29,@} 917 {%(Suhotrañ%}
+;-----------------
+16094 old <L>1027<pc>102-1<k1>avikzita<k2>avikzita
+16094 new <L>1027<pc>102-1<k1>Avikzita<k2>Avikzita
+;-----------------
+16095 old {@Avikṣita:@}¦ VII, 2170 {%(Āvikṣitaṃ Maruttaṃ),%} 2177
+16095 new {@Āvikṣita:@}¦ VII, 2170 {%(Āvikṣitaṃ Maruttaṃ),%} 2177
+;-----------------
+16659 old <L>1112<pc>104-2<k1>bahuvadyAH<k2>bahuvadyAH
+16659 new <L>1112<pc>104-2<k1>bahuvAdyAH<k2>bahuvAdyAH
+;-----------------
+16660 old {@Bahuvadyāḥ,@}¦ v. Bāhubadhyāḥ.
+16660 new {@Bahuvādyāḥ,@}¦ v. Bāhubādhāḥ.
+;-----------------
+16663 old <L>1113<pc>104-2<k1>bahuvedya<k2>bahuvedya
+16663 new <L>1113<pc>104-2<k1>bahuvidya<k2>bahuvidya
+;-----------------
+16664 old {@Bahuvedya@}¦ = Śiva (1000 names<sup>2</sup>).
+16664 new {@Bahuvidya@}¦ = Śiva (1000 names<sup>2</sup>).
+;-----------------
+16856 old <L>1130<pc>105-2<k1>bala<k2>bala<h>4
+16856 new <L>1130<pc>105-2<k1>bala<k2>bala<h>1
+;-----------------
+16857 old {@Bala@}<sup>4</sup>¦ (an Asura, son of Danāyus, and brother of Vṛtra). § 96
+16857 new {@Bala@}<sup>1</sup>¦ (an Asura, son of Danāyus, and brother of Vṛtra). § 96
+;-----------------
+24522 old <L>1672<pc>153-1<k1>BuvaH<k2>BuvaH<h>1
+24522 new <L>1672<pc>153-1<k1>Buvas<k2>Buvas<h>1
+;-----------------
+24523 old {@Bhuvaḥ@}<sup>1</sup>¦ = Śiva (1000 names<sup>1</sup>).
+24523 new {@Bhuvas@}<sup>1</sup>¦ = Śiva (1000 names<sup>1</sup>).
+;-----------------
+24526 old <L>1673<pc>153-1<k1>BuvaH<k2>BuvaH<h>2
+24526 new <L>1673<pc>153-1<k1>Buvas<k2>Buvas<h>2
+;-----------------
+24527 old {@Bhuvaḥ@}<sup>2</sup>¦ = Viṣṇu (1000 names).
+24527 new {@Bhuvas@}<sup>2</sup>¦ = Viṣṇu (1000 names).
+;-----------------
+40177 old <L>3276<pc>238-1<k1>devarzi<k2>devarzi<h>2
+40177 new 
+;-----------------
+40178 old {@Devarṣi@}<sup>2</sup>,¦ sg. Names of single Devarṣis:—
+40178 new 
+;-----------------
+40179 old <LEND>
+40179 new 
+;-----------------
+40181 old <L>3277<pc>238-1<k1>asita<k2>asita
+40181 new 
+;-----------------
+40182 old {@Asita:@}¦ I, 4045 {%(A°).%}
+40182 new 
+;-----------------
+40183 old <LEND>
+40183 new 
+;-----------------
+40185 old <L>3278<pc>238-1<k1>BUrBuva<k2>BUrBuva
+40185 new 
+;-----------------
+40186 old {@Bhūrbhuva:@}¦ XIII, 5285 (read with B. {%Bhūrbhuvaṃ%}
+40186 new 
+;-----------------
+40187 old <div n="lb">{%cāpi%}).
+40187 new 
+;-----------------
+40188 old <LEND>
+40188 new 
+;-----------------
+40189 old [Page238-b+ 62]
+40189 new 
+;-----------------
+40191 old <L>3279<pc>238-2<k1>bfhaspati<k2>bfhaspati
+40191 new 
+;-----------------
+40192 old {@Bṛhaspati:@}¦ I, 2705 {%(B°);%} II, 1793 {%(B°);%} V, 378
+40192 new 
+;-----------------
+40193 old <div n="lb">{%(°sattama),%} 382 (do.).
+40193 new 
+;-----------------
+40194 old <LEND>
+40194 new 
+;-----------------
+40195 old 
+40195 new <L>3276<pc>238-1<k1>devarzi<k2>devarzi<h>2
+;-----------------
+40196 old <L>3280<pc>238-2<k1>kaSyapa<k2>kaSyapa
+40196 new {@Devarṣi@}<sup>2</sup>,¦ sg. Names of single Devarṣis:—
+;-----------------
+40197 old {@Kaśyapa:@}¦ I, 2557.
+40197 new {@Asita:@}¦ I, 4045 {%(A°).%}
+;-----------------
+40198 old <LEND>
+40198 new <div n="P">{@Bhūrbhuva@}: XIII, 5285 (read with B. {%Bhūrbhuvaṃ%}
+;-----------------
+40199 old 
+40199 new <div n="lb">{%cāpi%}).
+;-----------------
+40200 old <L>3281<pc>238-2<k1>lomaSa<k2>lomaSa
+40200 new [Page238-b+ 62]
+;-----------------
+40201 old {@Lomaśa:@}¦ III, 8471 {%(L°),%} 8487 {%(°sattama);%} XI, 775 {%(L°).%}
+40201 new <div n="P">{@Bṛhaspati@}: I, 2705 {%(B°);%} II, 1793 {%(B°);%} V, 378
+;-----------------
+40202 old <LEND>
+40202 new <div n="lb">{%(°sattama),%} 382 (do.).
+;-----------------
+40203 old 
+40203 new <div n="P">{@Kaśyapa@}: I, 2557.
+;-----------------
+40204 old <L>3282<pc>238-2<k1>nArada<k2>nArada
+40204 new <div n="P">{@Lomaśa@}: III, 8471 {%(L°),%} 8487 {%(°sattama);%} XI, 775 {%(L°).%}
+;-----------------
+40205 old {@Nārada:@}¦ I, 7342(?), 7604 {%(N°),%} 7605, 7609, 7740
+40205 new <div n="P">{@Nārada@}: I, 7342(?), 7604 {%(N°),%} 7605, 7609, 7740
+;-----------------
+40216 old <div n="P">{@Parvata:@} III, 8483 {%(P°).%}
+40216 new <div n="P">{@Parvata@}: III, 8483 {%(P°).%}
+;-----------------
+40217 old <div n="P">{@Tanu:@} XII, 4679.
+40217 new <div n="P">{@Tanu@}: XII, 4679.
+;-----------------
+40218 old <div n="P">{@Uśanas:@} XII, 10660 {%(Uśanāḥ).%}
+40218 new <div n="P">{@Uśanas@}: XII, 10660 {%(Uśanāḥ).%}
+;-----------------
+40219 old <div n="P">{@Vasiṣṭha:@} III, 16600; XIII, 3968 {%(V°).%}
+40219 new <div n="P">{@Vasiṣṭha@}: III, 16600; XIII, 3968 {%(V°).%}
+;-----------------
+41179 old <L>3422<pc>242-2<k1>Darmagupta<k2>Darmagupta
+41179 new <L>3422<pc>242-2<k1>Darmagup<k2>Darmagup
+;-----------------
+41180 old {@Dharmagupta@}¦ = Viṣṇu (1000 names).
+41180 new {@Dharmagup@}¦ = Viṣṇu (1000 names).
+;-----------------
+41345 old <L>3441<pc>243-2<k1>DarmAranya<k2>DarmAranya
+41345 new <L>3441<pc>243-2<k1>DarmAraRya<k2>DarmAraRya
+;-----------------
+41346 old {@*Dharmāranya,@}¦ one or more sacred woods. § 368 (Tīrtha-
+41346 new {@*Dharmāraṇya,@}¦ one or more sacred woods. § 368 (Tīrtha-
+;-----------------
+41384 old <L>3448<pc>243-2<k1>Darmavid<k2>Darmavid
+41384 new <L>3448<pc>243-2<k1>Darmaviduttama<k2>Darmaviduttama
+;-----------------
+41385 old {@Dharmavid@}¦ = Viṣṇu (1000 names).
+41385 new {@Dharmaviduttama@}¦ = Viṣṇu (1000 names).
+;-----------------
+41749 old <L>3466<pc>246-1<k1>DAtu<k2>DAtu
+41749 new <L>3466<pc>246-1<k1>DAtuuttama<k2>DAtu uttama
+;-----------------
+41750 old {@Dhātu@}¦ = Viṣṇu (1000 names).
+41750 new {@Dhātu(r) uttama(ḥ)@}¦ = Viṣṇu (1000 names).
+;-----------------
+43225 old <L>3591<pc>254-2<k1>dInakft<k2>dInakft
+43225 new <L>3591<pc>254-2<k1>dinakft<k2>dinakft
+;-----------------
+43226 old {@Dīnakṛt@}¦ = Sūrya (the Sun): III, 192.
+43226 new {@Dinakṛt@}¦ = Sūrya (the Sun): III, 192.
+;-----------------
+53489 old <L>4367<pc>317-2<k1>hanUmadBImasamvAda<k2>hanUmadBImasamvAda
+53489 new <L>4367<pc>317-2<k1>hanUmadBImasaMvAda<k2>hanUmadBImasaMvAda
+;-----------------
+53490 old {@Hanūmad-Bhīma-samvāda(ḥ)@}¦ (“conversation between
+53490 new {@Hanūmad-Bhīma-saṃvāda(ḥ)@}¦ (“conversation between
+;-----------------
+57651 old <LEND>
+57651 new <div n="P">{@Śakraprastha:@} I, 8023; II, 1057; XVI, 186, 187
+;-----------------
+57652 old 
+57652 new <div n="lb">(there the rest of the Yādavas settled, ruled by Vajra);
+;-----------------
+57653 old <L>4648<pc>343-2<k1>SakraprasTa<k2>SakraprasTa
+57653 new <div n="lb">XVII, 9.
+;-----------------
+57654 old {@Śakraprastha:@}¦ I, 8023; II, 1057; XVI, 186, 187
+57654 new <div n="P">{@Śakrapurī:@} V, †915.
+;-----------------
+57655 old <div n="lb">(there the rest of the Yādavas settled, ruled by Vajra);
+57655 new <div n="P">{@Śatakratuprastha:@} III, †913.
+;-----------------
+57656 old <div n="lb">XVII, 9.
+57656 new <div n="P">{@Khāṇḍavaprastha:@} I, 394, 2262, 2263, 2264
+;-----------------
+57657 old <div n="P">{@Śakrapurī:@} V, †915.
+57657 new <div n="lb">{%(nagaraṃ),%} 7568, 7569, 7571, 7593 {%(°vāsinaḥ),%} 7600, 7748,
+;-----------------
+57658 old <div n="P">{@Śatakratuprastha:@} III, †913.
+57658 new <div n="lb">7976, 7993, 7995; II, 21, 993 ({%°madhyasthaḥ,%} sc. Yudhi-
+;-----------------
+57659 old <div n="P">{@Khāṇḍavaprastha:@} I, 394, 2262, 2263, 2264
+57659 new <div n="lb">ṣṭhira), 1184, 1783, 2448; III, †15606; IV, 1189 (? = the
+;-----------------
+57660 old <div n="lb">{%(nagaraṃ),%} 7568, 7569, 7571, 7593 {%(°vāsinaḥ),%} 7600, 7748,
+57660 new <div n="lb">Khāṇḍava forest?); V, 4175 (do.).
+;-----------------
+57661 old <div n="lb">7976, 7993, 7995; II, 21, 993 ({%°madhyasthaḥ,%} sc. Yudhi-
+57661 new <LEND>
+;-----------------
+57662 old <div n="lb">ṣṭhira), 1184, 1783, 2448; III, †15606; IV, 1189 (? = the
+57662 new 
+;-----------------
+57663 old <div n="lb">Khāṇḍava forest?); V, 4175 (do.).
+57663 new 
+;-----------------
+57664 old <LEND>
+57664 new 
+;-----------------
+57691 old <L>4651<pc>343-2<k1>indrasena<k2>indrasena<h>2
+57691 new <L>4651<pc>343-2<k1>indrasena<k2>indrasena<h>3
+;-----------------
+61696 old <L>5008<pc>366-2<k1>kASisuta<k2>kASisuta
+61696 new <L>5008<pc>366-2<k1>kASisutA<k2>kASisutA
+;-----------------
+61697 old {@Kāśisuta@}¦ (“the daughter of the Kāśi king”) = Ambā: V,
+61697 new {@Kāśisutā@}¦ (“the daughter of the Kāśi king”) = Ambā: V,
+;-----------------
+62790 old <L>5102<pc>373-1<k1>kAkudika<k2>kAkudika
+62790 new <L>5102<pc>373-1<k1>kAkudIka<k2>kAkudIka
+;-----------------
+62791 old {@Kākudika,@}¦ name of a weapon. § 563 (Bhagavadyānap.):
+62791 new {@Kākudīka,@}¦ name of a weapon. § 563 (Bhagavadyānap.):
+;-----------------
+68671 old <L>5712<pc>404-2<k1>KaSira<k2>KaSira
+68671 new <L>5712<pc>404-2<k1>KaSIra<k2>KaSIra
+;-----------------
+68672 old {@Khaśira@}¦ ({%Khā°,%} B.), pl. {%(°āḥ),%} a people. § 574 (Jambūkh.):
+68672 new {@Khaśīra@}¦ ({%Khā°,%} B.), pl. {%(°āḥ),%} a people. § 574 (Jambūkh.):
+;-----------------
+69609 old <L>5808<pc>410-1<k1>koRvaSira<k2>koRvaSira
+69609 new <L>5808<pc>410-1<k1>konvaSira<k2>konvaSira
+;-----------------
+69610 old {@Koṇvaśira,@}¦ pl. {%(°āḥ),%} a people. § 739 (Ānuśāsanik.):
+69610 new {@Konvaśira,@}¦ pl. {%(°āḥ),%} a people. § 739 (Ānuśāsanik.):
+;-----------------
+74358 old <L>6209<pc>437-2<k1>kuntInandana<k2>kuntInandana<h>1
+74358 new <L>6209<pc>437-2<k1>kuntinandana<k2>kunti-nandana<h>1
+;-----------------
+74359 old {@Kuntīnandana@}<sup>1</sup>¦ (do.) = Arjuna: XIV, 2579.
+74359 new {@Kunti-nandana@}<sup>1</sup>¦ (do.) = Arjuna: XIV, 2579.
+;-----------------
+74362 old <L>6210<pc>437-2<k1>kuntInandana<k2>kuntInandana<h>2
+74362 new <L>6210<pc>437-2<k1>kuntinandana<k2>kunti-nandana<h>2
+;-----------------
+74363 old {@Kuntīnandana@}<sup>2</sup>¦ (do.) = Yudhiṣṭhira: V, 5852 {%(rājā).%}
+74363 new {@Kunti-nandana@}<sup>2</sup>¦ (do.) = Yudhiṣṭhira: V, 5852 {%(rājā).%}
+;-----------------
+78983 old <L>6894<pc>457-2<k1>maheSvarapada<k2>maheSvarapada
+78983 new <L>6894<pc>457-2<k1>mAheSvarapada<k2>mAheSvarapada
+;-----------------
+78984 old {@Maheśvarapada.@}¦ a tīrtha. § 370 (Tīrthayātrāp.): III,
+78984 new {@Māheśvarapada.@}¦ a tīrtha. § 370 (Tīrthayātrāp.): III,
+;-----------------
+78988 old <L>6895<pc>457-2<k1>maheSvarapura<k2>maheSvarapura
+78988 new <L>6895<pc>457-2<k1>mAheSvarapura<k2>mAheSvarapura
+;-----------------
+78989 old {@Maheśvarapura,@}¦ a tīrtha. § 370 (Tīrthayātrāp.): III,
+78989 new {@Māheśvarapura,@}¦ a tīrtha. § 370 (Tīrthayātrāp.): III,
+;-----------------
+84555 old <L>7378<pc>490-1<k1>mftyuprajApatisamvAda<k2>mftyuprajApatisamvAda
+84555 new <L>7378<pc>490-1<k1>mftyuprajApatisaMvAda<k2>mftyuprajApatisaMvAda
+;-----------------
+84556 old [{@Mṛtyu-Prajāpatisamvāda(ḥ)@}]¦ (“the conversation
+84556 new [{@Mṛtyu-Prajāpatisaṃvāda(ḥ)@}]¦ (“the conversation
+;-----------------
+94153 old <L>8234<pc>545-1<k1>patitri<k2>patitri
+94153 new <L>8234<pc>545-1<k1>patatri<k2>patatri
+;-----------------
+94154 old {@Patitri,@}¦ a Kuru warrior. § 608 (Karṇap.): VIII, {@48<lang n="greek"></lang>,@} 2263
+94154 new {@Patatri,@}¦ a Kuru warrior. § 608 (Karṇap.): VIII, {@48<lang n="greek"></lang>,@} 2263
+;-----------------
+108021 old <L>9542<pc>623-1<k1>sarasvatItArkzyasamvAda<k2>sarasvatItArkzyasamvAda
+108021 new <L>9542<pc>623-1<k1>sarasvatItArkzyasaMvAda<k2>sarasvatItArkzyasaMvAda
+;-----------------
+108022 old [{@Sarasvatī-Tārkṣya-samvāda(ḥ)@}]¦ (“conversation
+108022 new [{@Sarasvatī-Tārkṣya-saṃvāda(ḥ)@}]¦ (“conversation
+;-----------------
+109384 old <LEND>
+109384 new <div n="P">{@Śaineyanandana@} (“delighter of the Śaineyas”):
+;-----------------
+109385 old 
+109385 new <div n="lb">VII, 5111.
+;-----------------
+109386 old <L>9733<pc>629-2<k1>SEneyanandana<k2>SEneyanandana
+109386 new <div n="P">{@Śauri,@} q.v.
+;-----------------
+109387 old {@Śaineyanandana@}¦ (“delighter of the Śaineyas”):
+109387 new <div n="P">{@Śineḥ pautra(ḥ)@}¦ (“grandson of Śini”): III, †10233;
+;-----------------
+109388 old <div n="lb">VII, 5111.
+109388 new <div n="lb">VII, 1073, 1170, 3606, 3610, 4576, 4636, 4650, 4669, 4780,
+;-----------------
+109389 old <div n="P">{@Śauri,@} q.v.
+109389 new <div n="lb">4787, 6344, 6355, 6359, 9186.
+;-----------------
+109390 old <div n="P">{@Śineḥ pautra(ḥ)@}¦ (“grandson of Śini”): III, †10233;
+109390 new <div n="P">{@Śineḥ putra(ḥ)@} (“son of Śini”): VII, 4378.
+;-----------------
+109391 old <div n="lb">VII, 1073, 1170, 3606, 3610, 4576, 4636, 4650, 4669, 4780,
+109391 new <div n="P">{@Śineḥ suta(ḥ)@} (“son of Śini”): VII, 6041, 6043;
+;-----------------
+109392 old <div n="lb">4787, 6344, 6355, 6359, 9186.
+109392 new <div n="lb">XVI, 89.
+;-----------------
+109393 old <div n="P">{@Śineḥ putra(ḥ)@} (“son of Śini”): VII, 4378.
+109393 new <div n="P">{@Śiner naptā@} (“grandson of Śini”): III, 735, †12330;
+;-----------------
+109394 old <div n="P">{@Śineḥ suta(ḥ)@} (“son of Śini”): VII, 6041, 6043;
+109394 new <div n="lb">V, †1852 {%(S°),%} †1853, 2930 {%(S°);%} VI, 2356, 2808, 5361;
+;-----------------
+109395 old <div n="lb">XVI, 89.
+109395 new <div n="lb">VII, †248, †4696, 4815, †5833, †5840; VIII, 2756; IX,
+;-----------------
+109396 old <div n="P">{@Śiner naptā@} (“grandson of Śini”): III, 735, †12330;
+109396 new <div n="lb">†871, †894, 933 {%(S°),%} †1084, 1099 {%(S°),%} 1604, 1606.
+;-----------------
+109397 old <div n="lb">V, †1852 {%(S°),%} †1853, 2930 {%(S°);%} VI, 2356, 2808, 5361;
+109397 new <div n="P">{@Śinīnām adhipa(ḥ), Śinīnāṃ pravaro@}
+;-----------------
+109398 old <div n="lb">VII, †248, †4696, 4815, †5833, †5840; VIII, 2756; IX,
+109398 new <div n="lb">{@ratha(ḥ), Śinīnām ṛṣabha(ḥ),@} v. Śini, pl.
+;-----------------
+109399 old <div n="lb">†871, †894, 933 {%(S°),%} †1084, 1099 {%(S°),%} 1604, 1606.
+109399 new <div n="P">{@Śinipravara@}¦ (“the hero of the Śini race”); VII, 4949.
+;-----------------
+109400 old <div n="P">{@Śinīnām adhipa(ḥ), Śinīnāṃ pravaro@}
+109400 new <div n="P">{@Śinipravīra@}¦ (do.); III, †10286; V, †4, †40; VI,
+;-----------------
+109401 old <div n="lb">{@ratha(ḥ), Śinīnām ṛṣabha(ḥ),@} v. Śini, pl.
+109401 new <div n="lb">†2587, †2589, †2592, †2806 {%(S°);%} VII, †4684, †4697, †5825;
+;-----------------
+109402 old <div n="P">{@Śinipravara@}¦ (“the hero of the Śini race”); VII, 4949.
+109402 new <div n="lb">VIII, †1213, †4185, †4206; IX, †1091; XIV, †1535.
+;-----------------
+109403 old <div n="P">{@Śinipravīra@}¦ (do.); III, †10286; V, †4, †40; VI,
+109403 new <div n="P">{@Śinipuṅgava@}¦ (do.); V, 5324; VI, 2485, 5142; VII,
+;-----------------
+109404 old <div n="lb">†2587, †2589, †2592, †2806 {%(S°);%} VII, †4684, †4697, †5825;
+109404 new <div n="lb">3001, 3605, 4175, 4177, 4233, 4240, 4291, 4646, 4654, †4686,
+;-----------------
+109405 old <div n="lb">VIII, †1213, †4185, †4206; IX, †1091; XIV, †1535.
+109405 new <div n="lb">†4691, 4770, 4790, 4795, 4842, †5830, 5875, 5880, 5902,
+;-----------------
+109406 old <div n="P">{@Śinipuṅgava@}¦ (do.); V, 5324; VI, 2485, 5142; VII,
+109406 new <div n="lb">7253 (only B.), 7745, 8285, 8651, 8655, 8799, 9177, 9183;
+;-----------------
+109407 old <div n="lb">3001, 3605, 4175, 4177, 4233, 4240, 4291, 4646, 4654, †4686,
+109407 new <div n="lb">VIII, 2157; IX, 938, 1101, 1105 {%(Hārdikya-Ś°au),%} 1110,
+;-----------------
+109408 old <div n="lb">†4691, 4770, 4790, 4795, 4842, †5830, 5875, 5880, 5902,
+109408 new <div n="lb">1113, 1115, 1121, 1445.
+;-----------------
+109409 old <div n="lb">7253 (only B.), 7745, 8285, 8651, 8655, 8799, 9177, 9183;
+109409 new <div n="P">{@Śiniputra@} (“son of Śini”): VIII, †1211.
+;-----------------
+109410 old <div n="lb">VIII, 2157; IX, 938, 1101, 1105 {%(Hārdikya-Ś°au),%} 1110,
+109410 new <div n="P">{@Śinivīra@} (“the hero of the Śini race”): VII, 4563.
+;-----------------
+109411 old <div n="lb">1113, 1115, 1121, 1445.
+109411 new <div n="P">{@Śinivṛṣabha@}¦ (do.): VIII, †1214, 1215.
+;-----------------
+109412 old <div n="P">{@Śiniputra@} (“son of Śini”): VIII, †1211.
+109412 new <div n="P">{@Dāśārha@} (“belonging to the Daśārhas”): VII, 4233
+;-----------------
+109413 old <div n="P">{@Śinivīra@} (“the hero of the Śini race”): VII, 4563.
+109413 new <div n="lb">(v. Dāśārha, pl.), 5882, 7638 (C. {%Dās°%}), 8671.
+;-----------------
+109414 old <div n="P">{@Śinivṛṣabha@}¦ (do.): VIII, †1214, 1215.
+109414 new <div n="P">{@Mādhava, Mādhavāgrya, Mādhavasiṃha,@}
+;-----------------
+109415 old <div n="P">{@Dāśārha@} (“belonging to the Daśārhas”): VII, 4233
+109415 new <div n="lb">{@Mādhavottama, Madhūdvaha,@}¦ q.v.
+;-----------------
+109416 old <div n="lb">(v. Dāśārha, pl.), 5882, 7638 (C. {%Dās°%}), 8671.
+109416 new <div n="P">{@Sātvata, Sātvataśreṣṭha, Sātvatāgrya,@}
+;-----------------
+109417 old <div n="P">{@Mādhava, Mādhavāgrya, Mādhavasiṃha,@}
+109417 new <div n="lb">{@Sātvatamukhya, Sātvatapravara, Sātva-@}
+;-----------------
+109418 old <div n="lb">{@Mādhavottama, Madhūdvaha,@}¦ q.v.
+109418 new <div n="lb">{@tarṣabha,@}¦ q.v.
+;-----------------
+109419 old <div n="P">{@Sātvata, Sātvataśreṣṭha, Sātvatāgrya,@}
+109419 new <div n="P">{@Sātyaka@}¦ (“son of Satyaka”): V, †653; VI, 1865, 2328,
+;-----------------
+109420 old <div n="lb">{@Sātvatamukhya, Sātvatapravara, Sātva-@}
+109420 new <div n="lb">2348, 4058 (only B.), 4635, 5155; VII, 633, 1441 {%(°ārṇavāt),%}
+;-----------------
+109421 old <div n="lb">{@tarṣabha,@}¦ q.v.
+109421 new <div n="lb">7281 (only B.); VIII, 2229, 3796.
+;-----------------
+109422 old <div n="P">{@Sātyaka@}¦ (“son of Satyaka”): V, †653; VI, 1865, 2328,
+109422 new <div n="P">{@Vārṣṇeya, Vṛṣṇi, Vṛṣṇiśārdūla, Vṛṣṇi-@}
+;-----------------
+109423 old <div n="lb">2348, 4058 (only B.), 4635, 5155; VII, 633, 1441 {%(°ārṇavāt),%}
+109423 new <div n="lb">{@kulodvaha, Vṛṣṇipravīra, Vṛṣṇipuṅgava,@}
+;-----------------
+109424 old <div n="lb">7281 (only B.); VIII, 2229, 3796.
+109424 new <div n="lb">{@Vṛṣṇisiṃha, Vṛṣṇivara, Vṛṣṇivīra,@}
+;-----------------
+109425 old <div n="P">{@Vārṣṇeya, Vṛṣṇi, Vṛṣṇiśārdūla, Vṛṣṇi-@}
+109425 new <div n="lb">{@Vṛṣṇy-Andhakapravīra, Vṛṣṇy-Andha-@}
+;-----------------
+109426 old <div n="lb">{@kulodvaha, Vṛṣṇipravīra, Vṛṣṇipuṅgava,@}
+109426 new <div n="lb">{@kavyāghra,@} q.v.
+;-----------------
+109427 old <div n="lb">{@Vṛṣṇisiṃha, Vṛṣṇivara, Vṛṣṇivīra,@}
+109427 new <div n="P">{@Yādava, Yadūdvaha, Yadūttama, Yaduvīra,@}
+;-----------------
+109428 old <div n="lb">{@Vṛṣṇy-Andhakapravīra, Vṛṣṇy-Andha-@}
+109428 new <div n="lb">{@Yaduvyāghra,@} q.v.
+;-----------------
+109429 old <div n="lb">{@kavyāghra,@} q.v.
+109429 new <div n="P">{@Yuyudhāna,@} the proper name of Sātyaki: I, †194
+;-----------------
+109430 old <div n="P">{@Yādava, Yadūdvaha, Yadūttama, Yaduvīra,@}
+109430 new <div n="lb">{%(Vārṣṇeyaṃ);%} II, 129 {%(S°);%} III, 611, 2009 {%(-Bhīmau);%}
+;-----------------
+109431 old <div n="lb">{@Yaduvyāghra,@} q.v.
+109431 new <div n="lb">IV, 2357 {%(S°);%} V, 55, 570 {%(Sātvatānāṃ mahārathaḥ),%} †683,
+;-----------------
+109432 old <div n="P">{@Yuyudhāna,@} the proper name of Sātyaki: I, †194
+109432 new <div n="lb">†723, †724, †783, 2006 {%(Vṛṣṇivīreṇa),%} 2233 {%(S°),%} 2252,
+;-----------------
+109433 old <div n="lb">{%(Vārṣṇeyaṃ);%} II, 129 {%(S°);%} III, 611, 2009 {%(-Bhīmau);%}
+109433 new <div n="lb">2315, 2869, 4887 {%(°-Yamaiḥ),%} 5143 ({%°dvitīyaṃ,%} sc. Dhṛṣṭa-
+;-----------------
+109434 old <div n="lb">IV, 2357 {%(S°);%} V, 55, 570 {%(Sātvatānāṃ mahārathaḥ),%} †683,
+109434 new <div n="lb">dyumna), 5175 {%(S°),%} 5708 {%(Vārṣṇeyaṃ),%} 7598, 7624, 7630;
+;-----------------
+109435 old <div n="lb">†723, †724, †783, 2006 {%(Vṛṣṇivīreṇa),%} 2233 {%(S°),%} 2252,
+109435 new <div n="lb">VI, 714, 780, 833, 3192 {%(°rathaṃ),%} 3247, 3251 {%(°sya sutāḥ);%}
+;-----------------
+109436 old <div n="lb">2315, 2869, 4887 {%(°-Yamaiḥ),%} 5143 ({%°dvitīyaṃ,%} sc. Dhṛṣṭa-
+109436 new <div n="lb">VII, 339, 1169 {%(°rathaṃ),%} 1170, 1380 {%(°prabhṛtayaḥ),%} 2953,
+;-----------------
+109437 old <div n="lb">dyumna), 5175 {%(S°),%} 5708 {%(Vārṣṇeyaṃ),%} 7598, 7624, 7630;
+109437 new <div n="lb">2982, 2983 {%(°-Janārdanau),%} 2991 (do.), 3000, 3609, 3612,
+;-----------------
+109438 old <div n="lb">VI, 714, 780, 833, 3192 {%(°rathaṃ),%} 3247, 3251 {%(°sya sutāḥ);%}
+109438 new [Page630-a+ 63]
+;-----------------
+109439 old <div n="lb">VII, 339, 1169 {%(°rathaṃ),%} 1170, 1380 {%(°prabhṛtayaḥ),%} 2953,
+109439 new <div n="lb">3641, 3648, 3651, 3657, 4045, 4049, 4134, 4135 {%(°purogamaiḥ),%}
+;-----------------
+109440 old <div n="lb">2982, 2983 {%(°-Janārdanau),%} 2991 (do.), 3000, 3609, 3612,
+109440 new <div n="lb">4136, 4138, 4141, 4144, 4150, 4151 {%(°rathaṃ),%} 4153, 4192,
+;-----------------
+109441 old [Page630-a+ 63]
+109441 new <div n="lb">4372, 4373, 4377 {%(°rathaṃ),%} 4393 {%(S°),%} 4394, 4396, 4398,
+;-----------------
+109442 old <div n="lb">3641, 3648, 3651, 3657, 4045, 4049, 4134, 4135 {%(°purogamaiḥ),%}
+109442 new <div n="lb">4400, 4415, 4432, 4434, 4435, 4455, 4568, 4599, 4602, 4630,
+;-----------------
+109443 old <div n="lb">4136, 4138, 4141, 4144, 4150, 4151 {%(°rathaṃ),%} 4153, 4192,
+109443 new <div n="lb">4651, 4655, 4657, 4660, 4673, 4740, 4752, 4758, 4786, 4812,
+;-----------------
+109444 old <div n="lb">4372, 4373, 4377 {%(°rathaṃ),%} 4393 {%(S°),%} 4394, 4396, 4398,
+109444 new <div n="lb">4814, 4839, 4851 {%(°rathaṃ),%} 4854, 4861, 4945 {%(°rathaṃ),%}
+;-----------------
+109445 old <div n="lb">4400, 4415, 4432, 4434, 4435, 4455, 4568, 4599, 4602, 4630,
+109445 new <div n="lb">4946, 4952, 5108, 5326 {%(°-Vṛkodarau),%} 5853, 5892, 5984,
+;-----------------
+109446 old <div n="lb">4651, 4655, 4657, 4660, 4673, 4740, 4752, 4758, 4786, 4812,
+109446 new <div n="lb">6354 {%(S°),%} 6397, 6492 {%(°-Vṛkodarau),%} 6758, 6923, 7227,
+;-----------------
+109447 old <div n="lb">4814, 4839, 4851 {%(°rathaṃ),%} 4854, 4861, 4945 {%(°rathaṃ),%}
+109447 new <div n="lb">7257, 7645 {%(Vṛṣṇīnāṃ pravaraḥ),%} 7650, 7652, 7680 {%(°rathaṃ),%}
+;-----------------
+109448 old <div n="lb">4946, 4952, 5108, 5326 {%(°-Vṛkodarau),%} 5853, 5892, 5984,
+109448 new <div n="lb">7688, 7690, 7692 {%(°rathaṃ),%} 7693, 7732, 8060, 8080, 8291,
+;-----------------
+109449 old <div n="lb">6354 {%(S°),%} 6397, 6492 {%(°-Vṛkodarau),%} 6758, 6923, 7227,
+109449 new <div n="lb">8798, 9319; VIII, 845, 2276, 2280, 2286, 3318, †3813 (only
+;-----------------
+109450 old <div n="lb">7257, 7645 {%(Vṛṣṇīnāṃ pravaraḥ),%} 7650, 7652, 7680 {%(°rathaṃ),%}
+109450 new <div n="lb">C., read {%yuvā yuvānaṃ%} with B.), 4991; IX, 969, 1117, 1831,
+;-----------------
+109451 old <div n="lb">7688, 7690, 7692 {%(°rathaṃ),%} 7693, 7732, 8060, 8080, 8291,
+109451 new <div n="lb">1983; X, 197; XI, 315, 677 (had slain Bhūriśravas), 678;
+;-----------------
+109452 old <div n="lb">8798, 9319; VIII, 845, 2276, 2280, 2286, 3318, †3813 (only
+109452 new <div n="lb">XIII, 7715; XIV, 1754 ({%°ānugaḥ,%} sc. Kṛṣṇa), 1804 ({%°sahāyena,%}
+;-----------------
+109453 old <div n="lb">C., read {%yuvā yuvānaṃ%} with B.), 4991; IX, 969, 1117, 1831,
+109453 new <div n="lb">do.), 1938, 1946 ({%°dvitīyaḥ,%} sc. Kṛṣṇa), 2557; XV, 332;
+;-----------------
+109454 old <div n="lb">1983; X, 197; XI, 315, 677 (had slain Bhūriśravas), 678;
+109454 new <div n="lb">XVI, 72, 73, 75, 85, 88, 155.
+;-----------------
+109455 old <div n="lb">XIII, 7715; XIV, 1754 ({%°ānugaḥ,%} sc. Kṛṣṇa), 1804 ({%°sahāyena,%}
+109455 new <LEND>
+;-----------------
+109456 old <div n="lb">do.), 1938, 1946 ({%°dvitīyaḥ,%} sc. Kṛṣṇa), 2557; XV, 332;
+109456 new 
+;-----------------
+109457 old <div n="lb">XVI, 72, 73, 75, 85, 88, 155.
+109457 new 
+;-----------------
+109458 old <LEND>
+109458 new 
+;-----------------
+111046 old <L>9915<pc>638-1<k1>simhaketu<k2>simhaketu<h>2
+111046 new <L>9915<pc>638-1<k1>siMhaketu<k2>siMhaketu<h>2
+;-----------------
+111047 old {@Simhaketu@}<sup>2</sup>,¦ a Pāṇḍava warrior. § 608 (Karṇap.): VIII,
+111047 new {@Siṃhaketu@}<sup>2</sup>,¦ a Pāṇḍava warrior. § 608 (Karṇap.): VIII,
+;-----------------
+117656 old <L>10692<pc>671-2<k1>svayamBuvovana<k2>svayamBuvovana
+117656 new <L>10692<pc>671-2<k1>svayamBuvovana<k2>svayamBuvo vana
+;-----------------

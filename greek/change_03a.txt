@@ -1,0 +1,12 @@
+1988 old <L>154<pc>013-1<k1>aDokzaja<k2>aDokzaja
+1988 new <L>154<pc>013-1<k1>aDokzaja<k2>aDokzaja<h>2
+;-----------------
+1989 old {@Adhokṣaja'@}¦ = Viṣṇu (1000 names).
+1989 new {@Adhokṣaja@}<sup>2</sup>¦ = Viṣṇu (1000 names).
+;-----------------
+43215 old <L>3590<pc>254-2<k1>dimBaka<k2>dimBaka
+43215 new <L>3590<pc>254-2<k1>qimBaka<k2>qimBaka
+;-----------------
+43216 old {@Dimbhaka,@}¦ a follower of Jarāsandha. § 273 (Rājasūyā-
+43216 new {@Ḍimbhaka,@}¦ a follower of Jarāsandha. § 273 (Rājasūyā-
+;-----------------
