@@ -1,3 +1,5 @@
+1167 old <div n="lb">137, 142 (probably the '<lang n="greek">σσακηνοί</lang> of the Greeks, in eastern
+1167 new <div n="lb">137, 142 (probably the <lang n="greek">Ἀσσακηνοί</lang> of the Greeks, in eastern
 ;-----------------
 2033 old {@Ādideva@}<sup>2</sup>¦ = Kṛṣṇa: XIII, 6893, 7373.
 2033 new {@Ādideva@}<sup>3</sup>¦ = Kṛṣṇa: XIII, 6893, 7373.
@@ -37,3 +39,4 @@
 ;-----------------
 125220 old <div n="lb">XIII, {@85@}<lang n="greek1">η</lang>, 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.
 125220 new <div n="lb">XIII, {@85@}<lang n="greek">η</lang>, 4146 (PCR. takes it as adj. to Śukra). Cf. Vibhu.
+;-----------------
