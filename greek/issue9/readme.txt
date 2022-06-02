@@ -37,3 +37,7 @@ temp_inm_1.txt is modified from temp_inm_0.txt by
  removing <lang n="greek"> and </lang>, except for the one in k1=aSvaka.
  
 python compare_greek.py temp_inm_1.txt temp_inm_ab_0.txt compare_greek.txt
+
+-------------------------------------------
+python compare_greek1.py temp_inm_1.txt temp_inm_ab_0.txt compare_greek1.txt
+
