@@ -189,6 +189,9 @@ def write_freq(fileout,option,freq):
  
 g1 = '\u0370'
 g2 = '\u03ff'
+g1a = '\u1f00'
+g2a = '\u1fff'
+
 def generate_greek_strings(x):
  """ 
   Assume x a (unicode) string. In utf-8 encoding?
@@ -196,7 +199,7 @@ def generate_greek_strings(x):
  gcs = []  # sequence of greek characters
  ingreek = False
  for c in x:
-  if g1 <= c <= g2:
+  if (g1 <= c <= g2) or (g1a <= c <= g2a):
    if not ingreek:
     # starting a new string
     gcs = [c]
@@ -222,7 +225,7 @@ def generate_greek_strings1(line):
  ans = re.findall(r'[\u0370-\u03ff]+',line)
  return ans
 
-def greek_strings(entries,option):
+def greek_strings_version0(entries,option):
  d = {}
  for entry in entries:
   for line in entry.datalines:
@@ -236,6 +239,32 @@ def greek_strings(entries,option):
     # greek unicode range
     for m in re.finditer(r'[\u0370-\u03ff]+',line):
      g = m.group(0)
+     if g not in d:
+      d[g] = 0
+     d[g] = d[g] + 1
+    for m in re.finditer(r'[\u1f00-\u1fff]+',line):
+     g = m.group(0)
+     if g not in d:
+      d[g] = 0
+     d[g] = d[g] + 1
+   else:
+    print('greek_strings option error',option)
+    exit(1)
+ print(len(d.keys()),'different greek strings')
+ return d
+
+def greek_strings(entries,option):
+ d = {}
+ for entry in entries:
+  for line in entry.datalines:
+   if option == 'csl':
+    for m in re.finditer(r'<lang n="greek">([^<]*)</lang>',line):
+     g = m.group(1)
+     if g not in d:
+      d[g] = 0
+     d[g] = d[g] + 1
+   elif option == 'ab':
+    for g in generate_greek_strings(line):
      if g not in d:
       d[g] = 0
      d[g] = d[g] + 1
@@ -253,7 +282,9 @@ def mark_entries(entries):
    #b = re.findall(r'[\u0370-\u03ff]+',line) # Greek unicode block
    b = list(generate_greek_strings(line))
    entry.greek_texts = entry.greek_texts + b
-   c = generate_greek_strings1(line)
+   # c = generate_greek_strings1(line)
+   # Take into account g1a-g2a secondary unicode range for Greek.
+   generate_greek_strings(line)
    entry.greek_texts1 = entry.greek_texts1 + c
    if True:
     if b != c:
