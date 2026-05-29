@@ -42,3 +42,33 @@ sh xmlchk_xampp.sh inm
 
 - **Python 3**
 - **inm.txt** — in `$BASE/cologne/csl-orig/v02/inm/inm.txt`
+
+## Data format
+
+INM is a names index; entries pair a proper name with Mahābhārata references.
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with `<pc>` print page ref | `<L>1<pc>001-1` |
+| `<k1>`, `<k2>` | Primary / secondary headword | `<k1>abala<k2>abala` |
+| `<LEND>` | Entry end | |
+| `{@…@}` | Proper name / reference number (bold) | `{@Abala@}` |
+| `{%…%}` | Italic (e.g. Sanskrit phrases) | `{%yajñamuṣo devāḥ%}` |
+| `§ NNN` | Sörensen section reference | `§ 492` |
+
+Annotated example — the first entry of `inm.txt`:
+```
+<L>1<pc>001-1<k1>abala<k2>abala     # entry 1; headword "abala"
+{@Abala@}.¦ § 492 (Āṅgirasa): III, {@220@}, 14166 (...)   # bold name ¦ section + MBh references
+<LEND>                              # entry end
+```
+
+## GitHub Issue Conventions
+
+This repository uses the Cologne dictionary-repo issue taxonomy. Every issue has exactly one **type**, one **severity**, and one **milestone**:
+
+- **Type** (9): link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **Severity** (3): minor, medium, hard
+- **Milestone** (4): Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+
+See the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md) for label definitions and the type→milestone mapping.
