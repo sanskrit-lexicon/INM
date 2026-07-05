@@ -1,5 +1,7 @@
 # INM — Sörensen *Index to the Names in the Mahābhārata*
 
+_Created: 03-12-2021 · Last updated: 05-07-2026_
+
 Development and correction repository for **S. Sörensen's *An Index to the Names in the Mahābhārata* (1904)**, a specialized English-language onomastic index, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (12,647 entries); this repository holds correction and enrichment work (concordance, Greek-text, spaced-markup research).
 
 ## Documentation
@@ -38,6 +40,29 @@ Produced by the `/cologne-preface-ocr` skill, run **synchronously in the main th
 5. **Encoding.** All `.md` files written UTF-8 **no BOM** (verified: `inmpref_all.*` start `23 20 46` / `23 20 d0`, not `efbbbf`).
 6. **Resume-aware.** Pages 01–05 from a prior partial run were reused unchanged; only 06–09 + all translations + consolidation were new.
 </details>
+
+## Usage example
+
+The real first entry of [`csl-orig/v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (entry 1, headword *Abala*):
+
+```
+<L>1<pc>001-1<k1>abala<k2>abala
+{@Abala@}.¦ § 492 (Āṅgirasa): III, {@220@}, 14166 (one of the
+15 {%yajñamuṣo devāḥ%}, gods that rob the offering, created by
+{%Agni Pāñcajanya%}(?)).
+<LEND>
+```
+
+To correct the parvan reference with the org's `updateByLine.py` workflow, a change file addresses print line 1 with the old/new text pair:
+
+```
+1 old 15 {%yajñamuṣo devāḥ%}, gods that rob the offering, created by
+1 new 15 {%yajñamuṣo devāḥ%}, gods that rob the sacrificial offering, created by
+```
+
+```sh
+python updateByLine.py inm.txt change_inm_N.txt inm_corrected.txt
+```
 
 ## Timeline
 
@@ -161,3 +186,5 @@ flowchart LR
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
