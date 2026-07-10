@@ -1,49 +1,45 @@
 # INM — Sörensen *Index to the Names in the Mahābhārata*
 
-_Created: 03-12-2021 · Last updated: 05-07-2026_
+_Created: 03-12-2021 · Last updated: 11-07-2026_
 
-Development and correction repository for **S. Sörensen's *An Index to the Names in the Mahābhārata* (1904)**, a specialized English-language onomastic index, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (12,647 entries); this repository holds correction and enrichment work (concordance, Greek-text, spaced-markup research).
+Development and correction repository for **S. Sörensen's *An Index to the Names in the Mahābhārata* (1904)**, a specialized English-language onomastic index, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/inm/inm.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (12,647 entries); this repository holds correction and enrichment work (concordance, Greek-text, spaced-markup research).
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide, correction workflow, and data-format reference.
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/INM/blob/main/CLAUDE.md) — repository guide, correction workflow, and data-format reference.
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `prefaces/` | Front-matter OCR (title page, Foreword, Preface, List of Abbreviations, Postscriptum) with Russian translation — see [Front matter](#front-matter-prefaces) below |
-| `concordance/` | Concordance data linking INM entries to Mahābhārata text references |
-| `greek/` | Greek loanword / citation research |
-| `spacedmarkup/` | Research on spaced-markup conventions in INM entries |
-| `CITATION.cff` | Machine-readable citation metadata |
+| [prefaces/](https://github.com/sanskrit-lexicon/INM/tree/main/prefaces) | Front-matter OCR (title page, Foreword, Preface, List of Abbreviations, Postscriptum) with Russian translation — see [Front matter](#front-matter-prefaces) below |
+| [concordance/](https://github.com/sanskrit-lexicon/INM/tree/main/concordance) | Concordance data linking INM entries to Mahābhārata text references |
+| [greek/](https://github.com/sanskrit-lexicon/INM/tree/main/greek) | Greek loanword / citation research |
+| [spacedmarkup/](https://github.com/sanskrit-lexicon/INM/tree/main/spacedmarkup) | Research on spaced-markup conventions in INM entries |
+| [CITATION.cff](https://github.com/sanskrit-lexicon/INM/blob/main/CITATION.cff) | Machine-readable citation metadata |
 
 ## Front matter (`prefaces/`)
 
-Faithful OCR of the 9 front-matter scan pages — the title page and publisher imprint of the 1963 Motilal Banarsidass reprint, the reprint *Foreword* (R. P. Naik, Ministry of Education), Sörensen's original *Preface* (pp. iii–vi, signed *“S. Sörensen. Copenhagen. February, 1902”*), the *List of Abbreviations*, and the *Postscriptum* (Dines Andersen & Elof Olesen, Copenhagen, January 1925, recording the author's death on 8 December 1902 and how the work was completed posthumously) — each in the **English source** plus a **Russian** translation, with consolidated single-file editions and a [`prefaces/README.md`](prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/inmpref.html). Because the source is already English there are no per-page `.en.md` files (the base `.md` *is* the English edition); the consolidated outputs are [`inmpref_all.en.md`](prefaces/inmpref_all.en.md) and [`inmpref_all.ru.md`](prefaces/inmpref_all.ru.md). Sörensen's transliteration (palatal *ç*, *sh*, vocalic *ṛ*, clarendon chapter numbers) and all Devanāgarī/Sanskrit are kept verbatim; the digitizer header/footer stamps are omitted.
+Faithful OCR of the 9 front-matter scan pages — the title page and publisher imprint of the 1963 Motilal Banarsidass reprint, the reprint *Foreword* (R. P. Naik, Ministry of Education), Sörensen's original *Preface* (pp. iii–vi, signed *“S. Sörensen. Copenhagen. February, 1902”*), the *List of Abbreviations*, and the *Postscriptum* (Dines Andersen & Elof Olesen, Copenhagen, January 1925, recording the author's death on 8 December 1902 and how the work was completed posthumously) — each in the **English source** plus a **Russian** translation, with consolidated single-file editions and a [prefaces/README.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/inmpref.html). Because the source is already English there are no per-page `.en.md` files (the base `.md` *is* the English edition); the consolidated outputs are [inmpref_all.en.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref_all.en.md) and [inmpref_all.ru.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref_all.ru.md). Sörensen's transliteration (palatal *ç*, *sh*, vocalic *ṛ*, clarendon chapter numbers) and all Devanāgarī/Sanskrit are kept verbatim; the digitizer header/footer stamps are omitted.
 
-<details>
-<summary><strong>OCR run notes (2026-06-22)</strong> — cost, timing, and technical lessons</summary>
-
-Produced by the `/cologne-preface-ocr` skill, run **synchronously in the main thread** (no subagents) per the preface-retry rules.
-
-**Cost.** Single-thread main context only: ~14 native-resolution image-crop Reads across 5 fresh pages (06–09 plus re-verification), 9 page transcriptions already on disk reused, 9 Russian translations authored, plus the consolidated build + README work. **Total ≈180–220k tokens.**
-
-**Time.** Wall-clock ≈8–12 min, fully sequential.
-
-**Technical lessons (reusable):**
-
-1. **INM's csldoc scans are high-resolution `.png` (3328×4677).** Native-resolution crop bands at ≤1900 px read cleanly; no upscaling needed.
-2. **The scan sequence has a gap and a reordering.** Underlying pages run 808–817 with **812 absent**; scan **808** is the *Postscriptum* and is ordered **last** (page 09), not first — the csldoc toctree order is authoritative, not filename sort.
-3. **The source is the 1963 Motilal Banarsidass reprint**, so the title page / imprint / Foreword are reprint-era (1963), while the Preface (1902) and Postscriptum (1925) are from the original Williams & Norgate edition.
-4. **The List of Abbreviations is 3 print columns** — transcribed in reading order (col 1 → 2 → 3) and split into two Markdown tables (abbreviations, symbols).
-5. **Encoding.** All `.md` files written UTF-8 **no BOM** (verified: `inmpref_all.*` start `23 20 46` / `23 20 d0`, not `efbbbf`).
-6. **Resume-aware.** Pages 01–05 from a prior partial run were reused unchanged; only 06–09 + all translations + consolidation were new.
-</details>
+> **OCR run notes (2026-06-22) — cost, timing, and technical lessons.** Produced by the `/cologne-preface-ocr` skill, run **synchronously in the main thread** (no subagents) per the preface-retry rules.
+>
+> **Cost.** Single-thread main context only: ~14 native-resolution image-crop Reads across 5 fresh pages (06–09 plus re-verification), 9 page transcriptions already on disk reused, 9 Russian translations authored, plus the consolidated build + README work. **Total ≈180–220k tokens.**
+>
+> **Time.** Wall-clock ≈8–12 min, fully sequential.
+>
+> **Technical lessons (reusable):**
+>
+> 1. **INM's csldoc scans are high-resolution `.png` (3328×4677).** Native-resolution crop bands at ≤1900 px read cleanly; no upscaling needed.
+> 2. **The scan sequence has a gap and a reordering.** Underlying pages run 808–817 with **812 absent**; scan **808** is the *Postscriptum* and is ordered **last** (page 09), not first — the csldoc toctree order is authoritative, not filename sort.
+> 3. **The source is the 1963 Motilal Banarsidass reprint**, so the title page / imprint / Foreword are reprint-era (1963), while the Preface (1902) and Postscriptum (1925) are from the original Williams & Norgate edition.
+> 4. **The List of Abbreviations is 3 print columns** — transcribed in reading order (col 1 → 2 → 3) and split into two Markdown tables (abbreviations, symbols).
+> 5. **Encoding.** All `.md` files written UTF-8 **no BOM** (verified: `inmpref_all.*` start `23 20 46` / `23 20 d0`, not `efbbbf`).
+> 6. **Resume-aware.** Pages 01–05 from a prior partial run were reused unchanged; only 06–09 + all translations + consolidation were new.
 
 ## Usage example
 
-The real first entry of [`csl-orig/v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (entry 1, headword *Abala*):
+The real first entry of [csl-orig/v02/inm/inm.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt) (entry 1, headword *Abala*):
 
 ```
 <L>1<pc>001-1<k1>abala<k2>abala
@@ -63,6 +59,8 @@ To correct the parvan reference with the org's `updateByLine.py` workflow, a cha
 ```sh
 python updateByLine.py inm.txt change_inm_N.txt inm_corrected.txt
 ```
+
+The full 8-stage correction workflow (snapshot → `updateByLine.py` → promote → build → XML-validate → audit → commit), the change-file format, and every encoding gotcha are canonically documented in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — corrections are never committed directly to `csl-orig`.
 
 ## Timeline
 
