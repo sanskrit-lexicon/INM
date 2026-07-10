@@ -13,7 +13,7 @@ BUNGALOW ROAD, JAWAHARNAGAR, DELHI-6
 NEPALI KHAPRA, VARANASI
 BANKIPORE, PATNA
 
-*По договорённости с*
+*По договоренности с*
 
 M/s ERNEST BENN LIMITED, ЛОНДОН
 
