@@ -5,7 +5,7 @@ Faithful OCR transcription, plus a Russian translation, of the **front matter** 
 > **An Index to the Names in the Mahābhārata**, with short explanations and a concordance to the Bombay and Calcutta editions and P. C. Roy's translation, by the late **S. Sörensen**, Ph.D. *Published under the auspices of the Government of India.* First published London: Williams & Norgate, 1904; reprinted by **Motilal Banarsidass**, Delhi, 1963.
 
 Source scans come from the Cologne Digital Sanskrit Lexicon (CDSL) csldoc build:
-[inmpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/inmpref.html). The dictionary data itself lives in [csl-orig `v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/inm/inm.txt); this folder covers only the prefatory pages, which are not part of `inm.txt`.
+[inmpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/inmpref.html). The dictionary data itself lives in [csl-orig `v02/inm/inm.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/inm/inm.txt); this folder covers only the prefatory pages, which are not part of `inm.txt`.
 
 **Source language: English.** The 9 pages comprise the title page and publisher imprint of the 1963 Motilal Banarsidass reprint, the reprint *Foreword* (R. P. Naik, Ministry of Education), Sörensen's original *Preface* (pp. iii–vi, 1902), the *List of Abbreviations*, and the *Postscriptum* (Dines Andersen & Elof Olesen, January 1925) describing how the work was completed and published after Sörensen's death.
 
