@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `inmprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `inmprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -324,3 +326,5 @@ R. P. NAIK
 *Январь*, 1925.
 
 <div style="text-align: right">DINES ANDERSEN. &nbsp;&nbsp;&nbsp; ELOF OLESEN.</div>
+
+_Dr. Mārcis Gasūns_

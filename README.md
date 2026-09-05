@@ -1,6 +1,6 @@
 # INM — Sörensen *Index to the Names in the Mahābhārata*
 
-_Created: 03-12-2021 · Last updated: 11-07-2026_
+_Created: 03-12-2021 · Last updated: 05-09-2026_
 
 Development and correction repository for **S. Sörensen's *An Index to the Names in the Mahābhārata* (1904)**, a specialized English-language onomastic index, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/inm/inm.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/inm/inm.txt) (12,647 entries); this repository holds correction and enrichment work (concordance, Greek-text, spaced-markup research).
 
@@ -160,7 +160,7 @@ pie showData
 - **Language**: English (onomastic index of Sanskrit proper names)
 - **Entries (digital edition)**: 12,647
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/INM/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 

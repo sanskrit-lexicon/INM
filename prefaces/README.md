@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Sörensen INM — front matter (Vorspann)
 
 Faithful OCR transcription, plus a Russian translation, of the **front matter** of:
@@ -29,8 +31,8 @@ There are **no** `inmprefNN.en.md` files: the source is already English, so the 
 
 | Edition | File | Built by |
 |---|---|---|
-| English (source) | [inmpref_all.en.md](inmpref_all.en.md) | [build_combined.py](build_combined.py) |
-| Russian | [inmpref_all.ru.md](inmpref_all.ru.md) | [build_combined.py](build_combined.py) |
+| English (source) | [inmpref_all.en.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref_all.en.md) | [build_combined.py](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/build_combined.py) |
+| Russian | [inmpref_all.ru.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref_all.ru.md) | [build_combined.py](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/build_combined.py) |
 
 Regenerate with `DICT=inm python build_combined.py` (reads each page's YAML; no hard-coded page list).
 
@@ -38,15 +40,15 @@ Regenerate with `DICT=inm python build_combined.py` (reads each page's YAML; no 
 
 | Page | Section | Vol. | English (source) | Russian |
 |---|---|---|---|---|
-| 01 | Title page | 1 | [inmpref01.md](inmpref01.md) | [ru](inmpref01.ru.md) |
-| 02 | Publisher imprint (1963 reprint) | 1 | [inmpref02.md](inmpref02.md) | [ru](inmpref02.ru.md) |
-| 03 | Foreword (R. P. Naik) | 1 | [inmpref03.md](inmpref03.md) | [ru](inmpref03.ru.md) |
-| 04 | Preface (p. iii) | 1 | [inmpref04.md](inmpref04.md) | [ru](inmpref04.ru.md) |
-| 05 | Preface (p. iv) | 1 | [inmpref05.md](inmpref05.md) | [ru](inmpref05.ru.md) |
-| 06 | Preface (p. v) | 1 | [inmpref06.md](inmpref06.md) | [ru](inmpref06.ru.md) |
-| 07 | Preface (p. vi) — signed | 1 | [inmpref07.md](inmpref07.md) | [ru](inmpref07.ru.md) |
-| 08 | List of Abbreviations | 1 | [inmpref08.md](inmpref08.md) | [ru](inmpref08.ru.md) |
-| 09 | Postscriptum (Andersen & Olesen, 1925) | 1 | [inmpref09.md](inmpref09.md) | [ru](inmpref09.ru.md) |
+| 01 | Title page | 1 | [inmpref01.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref01.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref01.ru.md) |
+| 02 | Publisher imprint (1963 reprint) | 1 | [inmpref02.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref02.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref02.ru.md) |
+| 03 | Foreword (R. P. Naik) | 1 | [inmpref03.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref03.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref03.ru.md) |
+| 04 | Preface (p. iii) | 1 | [inmpref04.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref04.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref04.ru.md) |
+| 05 | Preface (p. iv) | 1 | [inmpref05.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref05.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref05.ru.md) |
+| 06 | Preface (p. v) | 1 | [inmpref06.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref06.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref06.ru.md) |
+| 07 | Preface (p. vi) — signed | 1 | [inmpref07.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref07.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref07.ru.md) |
+| 08 | List of Abbreviations | 1 | [inmpref08.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref08.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref08.ru.md) |
+| 09 | Postscriptum (Andersen & Olesen, 1925) | 1 | [inmpref09.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref09.md) | [ru](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/inmpref09.ru.md) |
 
 Scans are kept under [scans/](scans/) (filenames `inm_Page_NNN_Image_0001.png`). The csldoc toctree order is authoritative; note the underlying scan pages run 808–817 with 812 absent and 808 (Postscriptum) ordered last as page 09.
 
@@ -55,3 +57,5 @@ Scans are kept under [scans/](scans/) (filenames `inm_Page_NNN_Image_0001.png`).
 - The *List of Abbreviations* (3 print columns) is rendered as two Markdown tables — abbreviations and symbols — in print reading order (column 1, then 2, then 3).
 - Sanskrit/Devanāgarī kept verbatim with full diacritics; the title-page and imprint Devanāgarī lines are preserved.
 - Russian translation: personal and place names in Cyrillic (Sanskrit proper names kept in their Latin transliteration in **bold**, as in the source, with a Cyrillic gloss in the abbreviations table); bibliographic work-titles and all Sanskrit kept in their original script.
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `inmprefNN.md`. Index: [README.md](README.md).
+Per-page files: `inmprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/INM/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -326,3 +328,5 @@ Copenhagen.
 *January*, 1925.
 
 <div style="text-align: right">DINES ANDERSEN. &nbsp;&nbsp;&nbsp; ELOF OLESEN.</div>
+
+_Dr. Mārcis Gasūns_

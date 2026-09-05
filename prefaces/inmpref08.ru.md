@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_817_Image_0001.png
 source_page: List of Abbreviations
@@ -113,3 +115,5 @@ translation: ru
 Номера стихов (обычным шрифтом) отсылают к Калькуттскому изданию.
 
 Номера глав (**жирным шрифтом clarendon**) отсылают к Бомбейскому изданию, Çaka 1799.
+
+_Dr. Mārcis Gasūns_

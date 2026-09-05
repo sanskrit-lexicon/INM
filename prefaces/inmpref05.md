@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_814_Image_0001.png
 source_page: Preface, 2
@@ -30,3 +32,5 @@ The enumeration of verses is, except where the heading is marked by an asterisk,
 There are also some other inconsistencies, sometimes voluntary, for the sake of convenience, sometimes involuntary, due to the fact that my work has extended over a very great span of time. These latter ones are faults for which I must ask indulgence, but I hope that they will not cause any serious misunderstanding or inconvenience. I do not now venture to correct them, lest the numerous cross-references should be imperilled.
 
 The numerous synonyms, such as *Kiriṭin* for *Arjuna*, have, as a rule, been put together under the principal name; e. g. *Kiriṭin*, etc., under *Arjuna*. Such denominations as *Kaurava*, *Kuruçreshtha*, etc., have, however, been given separately in their proper places, the principal aim to be held in view with regard to them clearly being to be able to know easily what person is meant in each instance.
+
+_Dr. Mārcis Gasūns_

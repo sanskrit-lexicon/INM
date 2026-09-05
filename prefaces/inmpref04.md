@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_813_Image_0001.png
 source_page: Preface, 1
@@ -18,3 +20,5 @@ Under **Māhishmatī** we thus find the quotation "§ 282*b* (Sahadeva)" followe
 A small Greek letter indicates that the reference is chiefly of interest on account of the connection in which it occurs, and that further information will be found under the heading referred to within parenthesis, where the same Greek letter has likewise been added, within parenthesis, as a cross-reference.
 
 Take, for instance, the reference given under **Duḥçāsana**, "§ 83 (Ādivaṃçāv.) α: I, 63, 2447" (or, I, 63α, 2447). Similarly, we find under **Duḥsaha**, "§ 83 (Ādivaṃçāv.) α: I, 63, 2448." These references show that Duḥçāsana and Duḥsaha are mentioned under the heading **Ādivaṃçāvataraṇa**, and that no immediate interest attaches to their being referred to in that place. The statement made under **Ādivaṃçāvataraṇa** runs, "§ 83: the 101 sons of Dhṛtarāshtra . . . of whom 11 (α) . . . are enumerated as mahārathas." Here the α indicates that I have not thought it worth while to enumerate those 11 names (they must accordingly be looked for in the Sanskrit texts), but the passage in question has been referred to under the headings of each of them.
+
+_Dr. Mārcis Gasūns_

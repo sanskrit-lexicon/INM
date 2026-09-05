@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -72,3 +74,5 @@ This repository uses the Cologne dictionary-repo issue taxonomy. Every issue has
 - **Milestone** (4): Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
 
 See the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md) for label definitions and the type→milestone mapping.
+
+_Dr. Mārcis Gasūns_

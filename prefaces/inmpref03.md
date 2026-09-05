@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_811_Image_0001.png
 source_page: Foreword
@@ -17,3 +19,5 @@ I am deeply appreciative of the efforts of M/S Motilal Banarsidass in bringing o
 New Delhi.
 
 R. P. NAIK
+
+_Dr. Mārcis Gasūns_

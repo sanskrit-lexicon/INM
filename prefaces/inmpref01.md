@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_809_Image_0001.png
 source_page: Title
@@ -36,3 +38,5 @@ S. SÖRENSEN, Ph.D.
 MOTILAL BANARSIDASS
 
 DELHI :: VARANASI :: PATNA
+
+_Dr. Mārcis Gasūns_

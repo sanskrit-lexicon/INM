@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_808_Image_0001.png
 source_page: Postscriptum
@@ -21,3 +23,5 @@ Copenhagen.
 *January*, 1925.
 
 <div style="text-align: right">DINES ANDERSEN. &nbsp;&nbsp;&nbsp; ELOF OLESEN.</div>
+
+_Dr. Mārcis Gasūns_

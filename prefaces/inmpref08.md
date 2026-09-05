@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_817_Image_0001.png
 source_page: List of Abbreviations
@@ -113,3 +115,5 @@ Capitals in italics denote the heading of the article in which they occur.
 Numbers of verses (in ordinary type) refer to the Calcutta edition.
 
 Numbers of chapters (**in clarendon type**) refer to the Bombay edition, Çaka 1799.
+
+_Dr. Mārcis Gasūns_

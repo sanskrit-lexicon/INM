@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_815_Image_0001.png
 source_page: Preface, 3
@@ -24,3 +26,5 @@ In transliterating the Sanskrit words, it will be noticed that I have followed t
 The only exception from the strict adherence to the arrangement in accordance with the Latin alphabet is that the letters *ç* and *ṛ* have been treated as separate letters and placed after *c* and *r* respectively. This has been done because these sounds are often transliterated as *ś* and *ṛi* respectively.
 
 In the CONCORDANCE it will be noticed that the mutual relationship between the two divisions in paragraphs and chapters has been indicated in various ways. My principal aim has here been to save space and trouble.
+
+_Dr. Mārcis Gasūns_

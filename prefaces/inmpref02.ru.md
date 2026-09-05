@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: inm_Page_810_Image_0001.png
 source_page: Publisher
@@ -29,3 +31,5 @@ M/s ERNEST BENN LIMITED, ЛОНДОН
 **Цена 73,20 рупии**
 
 Издано Сундарлалом Джайном, Motilal Banarsidass, Bungalow Road, Jawahar Nagar, Delhi-6, и напечатано Шантилалом Джайном, Shri Jainendra Press, Bungalow Road, Jawahar Nagar, Delhi-6.
+
+_Dr. Mārcis Gasūns_
