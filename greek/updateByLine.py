@@ -100,7 +100,8 @@ def update(filein,changein,fileout):
   irec = lnum - 1 # since lnum assumed to start at 1
   try:
    oldrec = recs[irec]
-  except:
+  except Exception as e:
+   sys.stderr.write('updateByLine: lnum error at py line %s: %s: %s\n' % (sys.exc_info()[2].tb_lineno,type(e).__name__,e))
    print("lnum error: ",change.lnumstr)
    exit(1)
   # oldrec is a list of lines, typically with just 1 line.
